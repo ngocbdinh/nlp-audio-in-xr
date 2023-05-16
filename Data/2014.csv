@@ -1,0 +1,929 @@
+text
+outerra anteworld  hrtf binaural audio test
+""
+sweet  outerra awesome  hope get multiplayer soon  s lonely xd
+m envisioning world campers fps games actually sit completely still irl order hearddetected  like 
+never heard outerra anteworld encourage check videos youtube  native rift support addition binaural audio could become one best demos show vr capable  although currently rather simulation game 
+nt terribly impressive ears  although certainly sounded  better  hrtf turned   sounded practically monophonic prior   case   many hrtf algorithms  sound  appeared  rise forehead  instead passing directly front  believe sound also dipped downwards bit passed behind head  although subtle effect  frontback cues seemed fairly weak  height cues essentially nonexistent   nt mean poor job   stuff seems super  personalized  given person s ear holes  nt seem convincing  nt mean particular algorithm could nt work fabulously well someone else  also  head tracking added mix  sort thing work much better everyone 
+sound engine  works really well least 
+found similar videos  watching outerra  http  wwwyoutubecomwatch  vloovx68wbl4  modern engine quake 3 supporting hrtf  written scratch   object  pascal    http  wwwpascalgamedevelopmentcomshowthreadphp  13795brtech1 
+impressive 
+fixed scale problem   maybe ipd adjustment  dont know exactly tested demo didnt found much impresive  native support  
+sounded pretty good  hoping start see binaural audio lot games software improves 
+sounds great 71 surround sound headset 
+doubt people camp games would play game like though  m realistic games  love true vr ideals everyone  though playing something stupid mindless like cod fun  nfs  love racing sims  sometimes s fun go play burnout 
+s tech demo nt  behind times  gameelements 
+interactive demo  headtracking  find brain adapts  virtual ears  course several cumulative hours  due feedback loop audio visual  frontback reversals occur less often  height discrepancy clear 
+listening  oh open headphones good soundstage could clearly hear eyes closed  though might right height cues strong  must consider open environment flat ground  worked extremely well headphones  overall  important vr 
+try    https  wwwyoutubecomwatch  viikdhuczby  see whether red green version sounds better  different people different ear shapes head resonances  different versions algorithm software uses kind audio  take differences account  nt know outerra going plan providing options re luck 
+wan na know find http  youtubeiudtlvagjja hrtf microphones head made ballistics something similar 
+believe openal
+scale problem  sure thinking right demo  outerra ability adjust ipd long time 
+71 headsets pure marketing gimmick  high quality stereo headsets  binaural beats shit 71 headsets junk 
+tech demo  real gameelements  download demo version  http  wwwouterracomdemohtml
+throw example support theory  anytime wear hat re dramatically changing ears localize sound  yet become accustomed new head  shape forget re wearing hat  another thing note  one thing notice sort 3d graphics hrtf demonstrations audio positioning matched according rendered fov  generally monitor occupying much much smaller fov  results substantial mismatch ears eyes placing truck  need move face quite close monitor get sync  would venture guess watched loop even minutes d start hear noticeable improvement  testing different hrtf openal models always made sure close eyes  brain potentially funny things trying place source sound ca nt see  thinks  
+ closed headphones height cues also worked  guess s person person thing whether works 
+forgot playing minute got freaked fuck lol  
+real binaural  recording   sure  demo s pseudo binaural audio nt sound anywhere close ears 
+ testing different hrtf openal models always made sure close eyes  brain potentially funny things trying place source sound ca nt see  thinks   good point bring  keeping eyes open common cause hearing everything behind listening recording  senses need reinforce  otherwise ll confuse 
+sound  vision  360° video 360° binaural audio beck s david bowie cover   s nonstereoscopic  used rift sundance year 
+""
+ music video  non360 mix  look 3d binaural microphones  look like human heads many ears  pretty cool  http  wwwhelloagaincombeck360mainvideohtml  makingofvideo concert recording rigs http  nowlincolncom201302soundtechnologygetsahumantouch binaural audio vr please 
+oh gosh  thank  m saving sure  really ca nt wait see else comes musical community rift 
+s nice practice filmmaker interested vr film see 360 video contrasted linear cut bottom right  wonder  though  360 video resolution bad  probably used two full hd cams stitched together 360 video cam respectively 
+sorry  guys  m bit confused  riftcompatible version publicly available point 
+ya go  http  wwwyoutubecomuserdddysonvideos ones labeld oculus lens distortion set rift viewing 
+actually using gopro cameras 360 view  see hanging  human head  microphones  believe rig  stitching comes http  www360heroscom
+separation videos seems 
+thanks 
+think quality bad seems  scaled browser 
+may 5 6 simultaneous videos multichannel audio  need keep file size  able skip views rotate view 360 audio without much hiccup  s complex shit  
+ announce  binaural3d audio engine games vr
+hi  ’ proud present  3dception   http  wwwtwobigearscom   realtime binaural3d audio engine extremely efficient works anywhere  currently available native plugin unity  osx  windows  linux   platforms follow   efficient room modelling enhanced spatialisation  desktop mobile support  easy integrate existing workflows  additional hardware expensive headphones  high resolution hrtfs free public alpha release  lots planned ahead  ’ like know think  download give go   action    https  wwwyoutubecomwatch  veyt7wfasyg0 
+works incredible well  going important vr gaming sure  thank making happen  best news day 
+astoundsoundamd true audio help  https  wwwyoutubecomwatch  vnknhcsrtnme best headphones  youtube video 
+bad  s quite aureallevel  got ta start somewhere re going revive 3d audio industry  nice work guys  watch creative get popular 
+waiting time  major props work  huge  definitely bring feedback messing bit 
+downloading 
+binaural different stereo  stereo good enough vr 
+application sent  interested try  think re going need actual path tracing though get truly realistic sound simulation 
+nothing pleases seeing audio addressed vr   
+thanks comment guys  s incredibly encouraging  share dev  download  play around give us honest feedback  thank much 
+finally  another step towards presence 
+sounds really great  integrate unity 
+love  really must vr 
+ideally  hrtf user profile along ipd  height  sex  plan universal hrtf  user selectable 
+nt know problem  hrtf demos ve tried sounds looks like coming behind  know s hardest part get since s dependent ear shape  maybe peruser calibration possible get right 
+looks awesome  looking plug like unity  thanks work releasing free alpha 
+really needed  vr sdir promising never released  awesome 
+really nice  open source 
+look forward giving spin  thanks 
+hi  tried  keeps popping quiet loud back  something wrong  even moving camera  windows 81 64bit  plays 10 seconds correctly  pops loud  plays sound nonspatialized  plays muted spatialized  idea sounds interesting  pun intended   stage  unusable 
+awesome work  m imagining nt let go redone 
+thank  go iomoon sure  work sectr audio  maybe thats covered  excited reply  edit  listening demo  blown away  going huge world  going asap  thank
+super stoked flood emails  people trying  people giving constructive feedback egging us go  ca nt express much means us  also  product  realise might bit careful limitations evaluation version  monday  release update removes   time outbypass effect   hear binaural effect time  limit 2 active audio sources  bound change time time things move forward  wanted take care annoyance lot complained  actually great feedback – thank much   everyone asked pricing  ve decided make free use noncommercial projects  limitation 5 audio sources   get touch project details ll provide license  commercial projects release price structure within next ten days  sorry figures mention right currently sorting licensing details lawyer post website  competitive  also flexible options since tough onesizefitsall approach within games industry  developing games always find tough fit pricing structures needs  want get right would appreciate hang days  committed delivering product makes sense everybody — technically qualitatively commercially well 
+cool  looking forward hearing reports devs rifters 
+tested head tracking rift yet 
+ deleted 
+makes happy 
+weird  googling around today wondering nt common games 
+finally  shouting rooftops  telling every programmer meet make exactly 2 years 
+looking long time  thanks creating  downloading  youtube demo reminds drone starwars empire strikes back 
+different effects obtained something like dolby headphone  takes 8 channel surround sound converts binaural stereo   effects dolby headphone pretty good nt deal vertical sound well  nt actually remember works  might assume something appears front back channels always something like   want know much better could beis s already  s minor improvement m excited s major difference 
+sounds pretty good  licencing costs small indie studio 34 seats 
+already another great binaural sound engine  gsound  http  wwwyoutubecomwatch  vbuu8gpg2chi   http  gammacsuncedugsound   http  gammacsuncedugsound   http  gammacsuncedugsound  iswill system differnt better compared 
+hello fantastic people  let know ve released new build  3dception   http  twobigearscom    ve removed time limit evaluation version  packages include prebuilt examples osx  windows linux — including support oculus rift  bug fixes  noncommercial licenses free  get touch  thanks lot invaluable feedback guys 
+first  great  something like really important vr  question  unreal engine 4 kind available everyone price 20   consider bringing unreal engine 4 soon  m going work unreal engine 4 3d audio would amazing   
+given recent ue4 release s popularity  think might also make plugin ue4  know others would appreciative 
+absolutely fantastic  definitely one missing pieces vr puzzle  ll downloading integrating projects weekend  thanks 
+incredibly important vr  great people working type work  nt feel like example virtual barbershop demo yet hear effects  looking forward toward  
+looks really nice  ll need learn unity play around 
+precompiled unity demo anywhere  s linux unitypackage download s linux unity sdk  s way use 
+sounds really good  unity integration big plus  would definitely like use 
+cool  definitely help make vr experiences even intimate  guess unity people use  would udk something would consider beta  thanks making happen  somebody already said  awesome vr related news today 
+handle echoes complex geometry  check video example mean  https  wwwyoutubecomwatch  vmqt1jtdbnk4
+wonder tech handle complex sounds  like hear noise coming inside large pipe standing  would sound complexity  hear sound center pipe ends  tech work within line sight 
+yay 
+compare  dolby headphone   https  wwwyoutubecomwatch  vl9apnlmmeas   use often works game surround support 
+thread linked elsewhere reddit    runity3d    xpost roculus  realtime binaural3d audio engine unity support   http  npredditcomrunity3dcomments20d384xpostfromroculusrealtimebinaural3daudio   i am a bot  comments  complaints   send them to my inbox    http  wwwredditcommessagecompose  tototesmetabot  
+start working exact thing  save lot time haha  p awesome work guys
+big believer power spatial audio  particularly relates vr  possibly quick feature comparison 3dception  nowfree fmod package   http  wwwgamasutracomviewnews212696fmodstudioaudiotoolsnowcompletelyfreeforindiesphp   thanks 
+big fan push get 3d audio games  questions hrtfs   high resolution   many come builtin   developer use custom hrtfs   enduser use custom hrtfs  thanks  good luck 
+looks cool  going try project 
+hey  nice start  plan resolve different hrtf modelshead shapes  far seems biggest problem 3d audio  really individual 
+wondering would invented  haha  demo sounds perfect  ca nt wait use maxmsp  maybe ableton live  edit  saw demo
+awesome  someone mentioned surround sound headphones another place comments  work better  would user notice difference surround sound stereo headphones 
+awesome  protocol openal supported details  like environment  rather canned effects  could get essentially every linux game  happy see moving forward 
+hey  might conflict something going audio engine  sure   https  developeroculusvrcomforumsviewtopicphp  f37  t6764  p93994  p93994
+like holophonics digital age  great work 
+one best ve seen 
+hi  published licensing details  commercial version available april 14th transition beta  details  http  twobigearscompricinghtml also published quick post blog summarising upcoming plans work far  http  twobigearscomlabs3dceptionsofar downloaded alpha build get update week improvements bug fixes  thanks patience support downloads feedback  questions feel free email us  hello   twobigears  dot  com   cheers varuntwo big ears
+s good see finally coming around seeing reemergence true 3d audio  created short rift demo demonstrating beneficial tech vr immersion  download try  http  bitly1dscqfk
+hello guys  transitioned beta commercial noncommercial versions available download  website   http  twobigearscom   download  give spin  let us know think  thanks support far 
+maan  searching days something like  little robot behind back head gives creeps  amazing work guys  adds much realism  optinion sound underestimated thing games  m mournin good old xfi card  use little noncommercial project maybe darkfield  
+downloadable demo site definitely provides better frontback definition interactive  although still run little confusion  usually pockets  30 degrees azimuth  30 sagittal plane   binaural feels little distinct  m really curious  m wondering also guys following recent hrtf work re microsoft  ve heard  re crunching huge data sets hundreds live subjects  think taking measurements massive scale like make significant difference quality algorithm 
+check one  https  wwwyoutubecomwatch  v05el5sumee 3d audio 
+d love see demo includes different kinds spaces  audio types  outdoor vs indoor small room vs medium room vs large room many sounds ones  like street ny many sounds ones  like walling orchestra environmental sounds  like thunder storm beach high cliffs crickets grass field different kinds sounds  people talking  music  high sounds  low sounds  deep sounds  light sounds  basey sounds  sounds  gun shots  explosions  sound get effected moving  objects around move blocking sounds  causing echoes  extra 
+agreed  knew dk2 coming eventually  sort blue think quite often  ll try unity get home 
+ deleted 
+would love see small unity demo test head rotation  would bet adds lot 
+seem like holographicbinaural difficult time making things seem like front  demo barber shop  everything behind  top left right  never really front  maybe brain messed 
+think ll hard anything live brtf trueaudio  ca nt wait get hold card supports 
+yes  wary  hope community benefit greatly push resurgence high quality audio  future sounds bright 
+binaural audio dreadhalls 
+stereo nt good enough ca nt use judge source sound ear  never mattered gaming level audio realism unnecessary looking flat monitor  vr  need able use ears way real life  god news player nt need special earphones  matters recording end also create true 3d sound alters player avatar moves  stereo works altering volume  binaural works altering generation sound ear closer ear virtual sound source  hear sound first 
+stereo positional sound geometrical matter  sometimes tricks like lowhighpass filters fixed reverbechoflanger simulate environment  binaural takes account much complex model human ear environment  hear much physically correct  rather  less physically incorrect  p   literally  feel  sound source located space around 
+add people said  head  big cantaloupe meat bone  dampens sound hits one side  therefore left ear hears sound much differently right ear  depending sound coming  binaural audio  exceptions like astrosound  recorded using dummy head two microphones  sound therefore head dampening effect makes realistic  things going  understanding  one keys earie realism 
+binaural stereo true stereo 
+could use surround sound headphones get every game 
+hi  check website  fill details click download  providing detailed documentation along example projects alpha library well  thank much 
+question exactly  crucial part enable user specify head shapehrtf least select based cleverly manufactured guide  universal hrtf never justice  imo  
+ deleted 
+high list trying multiple solutions  important get right ux perspective well — setup steps possible setup  progress alpha news   varun  3dception 
+hello  problem plugin well  frontback localisation well documented error  usually happens hrtf used nt match hrtf  real life  usually get rid moving head ever slightly  help case since head orientation tracked real time  thanks 
+massive well done   
+hello  read emaildocumentation correctly  released feature limited alpha version  since continuous development happening  thanks trying would really appreciate feedback incorporate future updates  binaural effect switching onoff feature limitation  sorry  anything wrong   thanks 
+m also getting issue look sphere front  hear behind  still  theres ton potential  watching  thanks 
+yes  makes us super excited  hope devs pick make amazing experiences 
+hi sinoth  right  hrtf processing happening  managed sneak spatialised early reflections well  something test download package   aiming high quality efficient audio without burning cpu  considering targeting mobile builds near future well  unity demo comes room modeller prefab  customise room sizes  absorption coefficents  well  hope helped 
+little company good binaural technology  patents match  creative falsely sued point file bankruptcy  point creative bought  also gave access said patents  trolling anyone tries anything binaural gaming since  http  wwwredditcomrtruegamingcomments126fjpwhyisntbinauralaudiousedingaming
+posted  still drilling flexible licensing plan works everybody  small dev team aware constraints  get touch us email  keep loop  releasing licensing structure soon  next two weeks done implementing constructive feedback receiving waves  shall   thanks bearing us 
+silence might mean expensivetoo much small teams 
+thanks  ue4 support roadmap  hopefully get commercial release  stay tuned 
+plans motion support many relevant platforms possible  support means lot us  keep watching space 
+package downloads come example projects  precompiled binaries  complete documentation play around well  
+near future  definitely  alpha release primarily targeting unity first  moving platforms  udk something would definitely like release  cheers 
+moment  handles spatialised early reflections rectangular rooms  dimensions  currently room prefab unity plugin placed anywhere   complex geometry feature list  incorporated point time 
+mind kind blown  m imagining playing game re going caves  know sound accurate  re unfamiliar sound bounces might trouble tracing  would make great mazeambush effect tell coming might know   mostly thinking things like underdark forgotten realms  ra salvatore describes drizzt s adventures  
+ deleted 
+hello  thanks comment  idea encouraging us get positive feedback  ca nt divulge much tech right  tell resolution hrtf incredibly high fraction computational cost traditional algorithms  point time  user upload customhrtf s s definitely future feature list  currently  aiming full scale commercial beta release soon  beyond big feature list help 3dception evolve time  fit developer s needs  hope helped 
+working solutions able reveal progress — varun  3dception 
+thanks heads  responded post   varun  twobigears 
+thanks kind words  looking forward  hearing  real projects
+definitely  prebuilt oculus demo coming next week — varun  tbe 
+describe result two factors  first recorded demos ca nt move head  actually important auditory localisation tool  move heads  slight unconscious movements  auditory scene follows ie  fixed heads  sound tends collapse heads  headphones  second eyes stepping telling possible way sound re hearing infront  clearly wall  brain steps point dictates sound source location must behind  acoustic world called fronttoback confusion  fact oculus allows move head also provide visual stimulus required  brain believes sound distance front  visual input receiving open field  example  holy grail  acoustician  bought dev kit  alas  time develop  rift  try demonstration  prerecorded feedback head movements nt demonstrate full potential  glimpse   try keep head still oculuswearing playback  first  watch video headphones watching monitor  notice moves front  unconvincing  second  strap rift play  m sure  difference huge  frontal localisation  s also like like texture sound changed  like sound moving arm physical presence  m keen hear similar experience  https  wwwyoutubecomwatch  vlsxh5etsxds ca nt wait see 3dception others applied rift games  staying tuned 
+shape outer ear huge amount impact whether perceive sounds come front behind  one reason traditional stereo audio ideal vr  binaural recording set ups use microphones mounted inside fake ears  m sure done within game engine maybe quite right  unfortunately give go get home s working people others could shape ears brain used perceiving audio based shape   source aural perception   http  enwikipediaorgwikisoundlocalization  soundlocalizationinthemedianplane28front2cabove2cback2cbelow29 
+mostly  bat ears  probably nt help  hopefully one day option  hope kinnect scan model ears  software model audio changes realtime  though sounds crazy complex 
+ heard one time demo actually sounded like sound coming front 
+headset dolby 3d stuff builtin problem  also demo videos   stuff front seems inside head   
+ deleted 
+sure hope valve takes something like wing  seem patron saint neglected technology lately 
+ watch creative get popular big one  understand  creative holds patent idea  uabeshius getting around issue 
+maybe  audio quality quite important immersion  vr horror games  m willing give try
+agree said except nt matter  made huge difference back day  aureal 3d run business frivolous lawsuits creative labs  promptly bought tech let collect dust years unused products  ve limping along ever since far 3d audio goes  remember much crazy difference made though  especially firstperson shooters 
+m sure  agree binaural improvement  play counterstrike competitively always tell someone headphones  definitely kill people without needing look screen occasionally  nt agree  ca nt use judge source sound ear   sure 
+important aspect  stereo never sounds right  ca nt tell someone say counter strike bellow normal stereo  binaural  go  hey dudes right    check http  wwwyoutubecomwatch  viudtlvagjja understand m talking  sense presence binaural audio wayyyyyyy stereo 
+could nt thing done stereo two mics side dummy head  nt see benefit binaural  thought main point binaural audio modelisation ears  simulate reflection sound  ve yet heard example made difference compared stereo  remember tested barber s demo intras earphones could nt really tell source sound front behind 
+surround sound headphones binaural  surround sound headphones binaural sound 3d tv oculus rift 
+binaureal sound    whatever s called   also gives height information  basically surround sound headphones fake sound sources horizontal circle around head binaureal sound fake sphere around head 
+guess issue  unlike parameters  choosing optimal hrtf currently subjective process  selection screen could feature animation soundemitting object orbiting head  user selects hrtf sounds accurate  good enough  auditory implications specific pinnae geometry yet precise science 
+addition points abeshius  frontback confusion also due visual input matching auditory input  brain says  dinosaur front  wall  must behind  rift feeding correct visual stimulus  think frontback confusion reduced  additionally recent research looked fast brain learn new hrtf  result relatively short time period  listener accurate different hrtf  think research also fixed head positions  m interested know much faster new hrtf learnt head movement believable visual stimulus provided rift   hello  problem plugin well  frontback localisation well documented error  usually happens hrtf used nt match hrtf  real life  usually get rid moving head ever slightly  help case since head orientation tracked real time  thanks 
+problem capyvara  nt know plugin demo video sound mostly behind inside head  eyes closed could sworn ending sequence taking place behind head  demo app select different hrtfs  edit  wanted say specific software case  every 3d audio demo video tried also headset  dolby headphone 71  
+hi  sorry  bad  glanced documentation get work  would nice ramp volume insteadof switching though  almost lost ears might come bit rough  result nice  idea would eventually like charge 
+thank much  yes  issue tracker alive kicking   hoping lots feedback take care releasing final version  product sounds really interesting btw  good luck 
+considered using kinnect something similar scan ears  model sound around 
+ahh s wonderful  good luck things  thanks 
+nt  example package s binaries 
+nt mean 3dception wo nt support fmod future    varun  two big ears 
+thanks reply   limited  research indicates least partially inaccurate  supposedly fmod package used unity  gimped   something using  real  hrtf algorithms   otherwise fmod seems  capable spatial features   http  wwwkvraudiocomproductfmodexbyfirelighttechnologies    supply 3d positions sound source listener fmod ex automatically apply volume  filtering  surround panning doppler effect mono  stereo even multichannel samples  transition calculated positioning sound designer defined positioning using 2d3d pan morphing  even greater audio realism use fmod ex s    choice linear  logarithmic custom rolloff curves   custom geometry engine add polygon scenes  fmod ex factor obstructionocclusion    3d reverbs blend transitions environments different ambience   software mixer even hrtf   headrelated transfer function  mode provide 3d realism headphones    3dception fmod  significant optimization difference  probably deal fmod anyway access fancy audio functions  3dception give additional features  ll definitely exploring unity projects would benefit  serious torque3d projects  engine fmod already baked  seems old news 
+thanks  great reply  really want give try friend s dev kit  fan rift holographicbinaural audio  ca nt wait see people develop 
+yes  feedback eyes ears crucial  experiments last year new rift  little game scoring quick accurate location object  course week scoring kept getting better frontback confusion disappeared  brain adapted kemar  ears  proper training loop  visual confirmation audio cues  think  stress  situation gamey aspect helped push faster training well 
+3dception  head tracking something else 
+problem frontback rdamnrooster experiencing linked video  oculus video linked longtime cmss3d use  always assumed mismatches hrtf  average  head used situations vs personal hrtf big  weirdo head different  however  introduced new cold  hard science nt aware  p nt rift test video thought next best thing would close eyes see difference watching video avoid issue eyes mentioned  definitely noticed better eyes closed feels like hear fine around 2  oclock 10  oclock 111 suddenly feels like flips back head goes behind  ve noticed exact effect 360 degree helicopter demo comes cmss3d  likely part hrtf mismatch mentioned 
+would bat ears problem effects 
+       009          009        009  section 5     sound localization median plane  front   back       http  enwikipediaorgwikisoundlocalization  soundlocalizationinthemedianplane28front2cabove2cback2cbelow29  article    sound localization     http  enwikipediaorgwikisound  20localization       sfw     human  outer ear   http  enwikipediaorgwikiouterear   ie  structures  pinna   http  enwikipediaorgwikipinna  anatomy   external  ear canal   http  enwikipediaorgwikiearcanal   form directionselective filters  depending sound input direction median plane  different filter resonances become active  resonances implant directionspecific patterns  frequency responses   http  enwikipediaorgwikifrequencyresponse  ears  evaluated  auditory system   http  enwikipediaorgwikiauditorysystem   directional bands   vertical sound localization   http  enwikipediaorgwikiverticalsoundlocalization   together directionselective reflections head  shoulders torso  form outer ear transfer functions     interesting   3d sound localization   http  enwikipediaorgwiki3dsoundlocalization    vertical sound localization   http  enwikipediaorgwikiverticalsoundlocalization    perceptualbased 3d sound localization   http  enwikipediaorgwikiperceptualbased3dsoundlocalization    psychoacoustics   http  enwikipediaorgwikipsychoacoustics  parent commenter can  toggle nsfw   http  wwwnpredditcommessagecompose  toautowikibot  subjectautowikibot nsfw toggle  message  2btogglensfwcg219gl  or       delete   http  wwwnpredditcommessagecompose  toautowikibot  subjectautowikibot deletion  message  2bdeletecg219gl    will also delete on comment score of 1 or less      faqs    http  wwwnpredditcomrautowikibotwikiindex    mods   http  wwwnpredditcomrautowikibotcomments1x013oformoderatorsswitchescommandsandcss    magic words   http  wwwnpredditcomrautowikibotcomments1ux484askwikibot 
+ left right would also switched  guess damnrooster would noticed   
+ear buds may work better  perhaps s particular profile  everyone s head ears shape size 
+creative holds patent  implementation  binaural audio  assured taken every step make sure nt infringing ip  moreover  research based completely independent work past two years   m help abeshius tackle questions since awesome questions feedback   thank   — varun  two big ears 
+yes please  oh man  excited full dreadhalls release  m torn hoping another demo  hoping re dedicating time making complete game ready launch title cv 
+wow  would best thing ever  really hope manage figure  
+binaural goes dreadhalls yet another reason ll never play terrifying game ever  
+days could play counterstrike blind csmansion cssiege  bullshit  especially important mansion remember map really dark  hearing coming gave time realize coming  turn gave time figure team belonged  days  difference teams ts never worse sleeves  ff always 
+yep  one worst story patents killing innovation  even buying disruptive competitor silence  better quality  nobody go bankrupt 
+ deleted 
+s realistic  real life hear sound reached 2 ears time  wo nt know instinctively rotate head slightly determine true location  ca nt barbershop recording  vr headset adjusts movement head 
+sure  actual  multiple speakers somehow inferior fake multiple speakers  d consider tech far closer 3d tv tech surround sound 
+though  one faked   one requires special support effort developer chunk processing power  works games  videos music box  m saying ca nt useful  m saying people fawning saying  last immersion  bit silly point 
+hi nairol  look reply question sound behind head collapsing inside head  http  wwwredditcomroculuscomments20cc0bannouncebinaural3daudioengineforgamesandvrcg20u2n
+thanks fab feedback  definitely incorporating one point time  cheers 
+hello  m abeshius s coconspirator two big ears  binary mentioned plugin unity project — build linux version windowsosx pointed  nt got precompiled unity demo yet  let know 
+ deleted 
+ deleted 
+yeah  actually matters  part allows accurate positional audio exactly attenuating sound traveled the human ear   necessarily  ear funny shape wo nt attenuated correctly 
+right m working full time making full dreadhalls  also ideas new different demos  necessarily horror ones   might take days point prototype one 
+dude always wondered soundcard good able aim thru walls well  got banned everywhere  turns hacker  jk lol  go away 
+nothing really changed creative much smaller company today
+talk actual speakers  talking multiple speakers headphone  got point  surround sounds headphones good   get somewhere  way  re missing height  proximity  big deal  crickets chirping away beneath feet  birds contribute dropping  program  http  enwikipediaorgwikiheadrelatedtransferfunction
+ve seen  great comment  thanks  locating ringing phone without walking around turning head pretty much impossible    video quite good  nt fully convince brain arm front least nt appear behind     nt rift though  ca nt try  
+thanks good explanations sinoth  yes  early reflections 3dception based geometry game  fmod uses standard  reverb nt based geometry  reflections make huge difference far spatialisation concerned  fmod hrtf mode  using  point  nt easy think — nt seen lot games binaural sound  furthermore  typical hrtf methods quite demanding cpu  making difficult guarantee cross platform performance  3dception hand tackles nt take minutes implement  hope clears things 
+sure talking video  m talking  official demo video linked op   https  wwwyoutubecomwatch  veyt7wfasyg0  visual cues  eg  20 seconds see flying thing right  yes barber shop visual clues damnrooster problem videos   way  also   backwards headphone syndrome  damnrooster hear sound directions one  would nt backwards headphones rotate sound perception directions 180°   nt downvote btw  
+see post  aureal started developing tech  amazing  competitive audio card company creative got scared  sued aureal oblivion  aureal actually case  went bankrupt legal fees  creative swooped  bought ip  buried time 
+       009          009        009     headrelated transfer function     http  enwikipediaorgwikiheadrelated  20transfer  20function       sfw     headrelated transfer function  hrtf  response characterizes  ear   http  enwikipediaorgwikiear  receives sound point space  pair hrtfs two ears used synthesize  binaural   http  enwikipediaorgwikisoundlocalization  sound seems come particular point space   transfer function   http  enwikipediaorgwikitransferfunction   describing sound specific point arrive ear  generally outer end  auditory canal   http  enwikipediaorgwikiauditorycanal    consumer home entertainment products designed reproduce surround sound stereo  twospeaker  headphones use hrtfs  forms hrtfprocessing also included computer software simulate surround sound playback loudspeakers     interesting   vertical sound localization   http  enwikipediaorgwikiverticalsoundlocalization    dummy head recording   http  enwikipediaorgwikidummyheadrecording    a3d   http  enwikipediaorgwikia3d    am3d as   http  enwikipediaorgwikiam3das  parent commenter can  toggle nsfw   http  wwwnpredditcommessagecompose  toautowikibot  subjectautowikibot nsfw toggle  message  2btogglensfwcg2df68  or       delete   http  wwwnpredditcommessagecompose  toautowikibot  subjectautowikibot deletion  message  2bdeletecg2df68    will also delete on comment score of 1 or less      faqs    http  wwwnpredditcomrautowikibotwikiindex    mods   http  wwwnpredditcomrautowikibotcomments1x013oformoderatorsswitchescommandsandcss    magic words   http  wwwnpredditcomrautowikibotcomments1ux484askwikibot 
+still possible get one old creative audio cards support  one old ass desktop  knows   able snipe ppl awesome  felt 100  better game 
+none creative audio cards  aureal  creative  also made sound cards  vastly inferior ones  blew existence lawsuits buried tech forever 
+sightline  chair 16  3dception binaural audio   space  mode  sdk 0431  improvements  please vote greenlight  
+hello rifters  m sorry took long update  life difficult  s finally hope new features remedy long wait  sightline features binaural audio  3dception engine   http  twobigearscom  realistic sound  also  ve asking quite  added ability quickly jump space scene stay long want  news  sightline  chair   immersive awards vr awards ceremony    yaaay    please  nt forget  vote us steam greenlight    http  steamcommunitycomsharedfilesfiledetails  id241504976    s dragging quite re still far greenlit  re kidding    need   support help turn fully fledged game             sightline  chair    surreal experience designed demoing tool    crafted throw users world vr  show s full potential creating variety worlds feel real   creating realities behave unlike anything might know       watch trailer      https  wwwyoutubecomwatch  vpm3gqtdyq50   download   windows  sdk 0431  300 mb    http  evrydayvrsrvsnsharesightlinesightlinechairwinzip   download   os x  untested   sdk 0431  300 mb    http  evrydayvrsrvsnsharesightlinesightlinechairmaczip   visit official website   http  sightlinevrcom     vote us greenlight      http  steamcommunitycomsharedfilesfiledetails  id241504976     vote us oculus share      https  shareoculusvrcomappsightlinethechair   like us facebook receive updates   https  wwwfacebookcomsightlinegame               s new    integrated 3dception binaural audio  added  space  mode jump directly space scene  update sdk 0431  updated noncommercial use text  improved scale objects  moved book bit back  added vsync option main menu  added left ctrl key tracking reset  updated unity 460f3  aligned earth rotation particles  increased asteroid targetting angle  tweaked screen material  minor changes improvements            enjoy  comment  report issues   nt forget vote us share get sightline  wo nt happen without help   
+nice  downloading  congrats award  
+must played demo hundred times already  simply superb  binaural audio  amazing   asunder earthbound two time favourite oculus demos  please make binaural horror story demo strapped chair straight jacket ca nt move 
+seem judder issues desk scene  never issue  4690k 45gtx 970
+took party everyone agreed demos rollercoasters played  immersive  awesome  kickass experience try  hands  definitely voting  d love see kind experience 
+slight judder desk scene gtx 970 2500k audio great 
+extreme judder  desk scene little  grass scene lot  drops 25 fps  ve got r920x intel 2600k 4 ghz  quality high  normal doesnt matter 
+hallo  last version absolutely smooth  massive judder frameratedrop 3545 even  fastest     win 81  gf 780m
+hi frooxius include vignette build 
+chance get leap support  heard working  everyone tried sightline oculus said would great interact stuff using hands   great work btw  best demo intoduce people vr 
+binaural audio  awesome  hate ask  chance linux version   nt yet  might wait till next sdk hopefully fixes 
+ll try  always got awful frame rate 770 
+voted greenlight  thanks  love work 
+voted  congrats award btw  deserved   
+vote steam right  congrats awesome job 
+idea greenlit boggles  goto demo everyone  please go greenlight 
+voted greenlight  good luck  time update  visitors tomorrow eager let try chair
+science  showed group drunk girls mdma evening  confirm  everyone loved 
+ removed 
+showed new people last night  s always goto vr experience s simply amazing  sad nt able show updated version  big deal  ll see changes    great work  congrats award  well deserved 
+exactly juddering  kind jerky tracking hiccups sometimes direct mode  even annoying  apart demo still good always better  ca nt vote greenlight done already  
+thanks update  65ish grandpa trying sightline  blown away  joking arthritis turn head lot  went great  one favorite demoing people  voted greenlight  good luck 
+congratulations whole adventure ve far  work ve done definitely inspired many  included 
+thank frooxius  always first demo show people  glad binaural audio  bought new headphones   got stutter issues others  desk scene  75 fps   additionally  turning mirroring  turns everything 2fps crawl  got problem aaaaaaaaaaa    4770k  r280 keep  got great thing going  thanks  great addition vr community  lucky
+2500k  2xgtx680  direct mode  really low performance across board  2040 fps regardless quality settings  previous version 7075 fps scenes grass trees  tanked 30 fps  good luck debugging  one best demos showcasing rift  nice examples huge scale  claustrophobia vertigo  might want make start speech optional setting  ve people difficulties understanding confused 
+getting lots judder desk screen video playing m 75fps  stops scene goes dark glasses come  everything else smooth minor judder scene changes  fyi  awesome demo though  windows 7 i74970k gtx 970
+looks pretty damn cool  eta linux version 
+thank amazing update  contratz award     
+sweet  ca nt wait try 
+i5 750  32ghz  r9280x  sdk 042 judder mostly whole demo  tried everything get better chance  version works nearly perfect  anyway  thank fantastic experience  love number one demo show first time rifters  sorry english    
+judder 75hz  something wrong  seems like last update broke something dude  please fix  want binaural sound  seems classic 043 sdk issue  also ca nt get run directly rift  drag window across rift window  annoying white line top view
+great stuff froox  alternative download mirrors  every time download  s speed pretty slow 
+added feature make configuration file parts demo want play  order play 
+awesome  tried integrate 3dception ago believe troubles  convincing get work though  downloading ll report back   full year thinking nvidia 660ti  reality s 560ti   pretty low end  recall  ever got serious judder beginning desk scene  curious see works better honestly nt  means nothing  560ti ooooold even close representative average rift user 
+removed  making connection 17319465102 running 
+m relatively new oculus  demo first one blow away  really came different angle demo s shows possible vr  s goto giving people first oculus experience 
+thank youuu   
+yay  thank  3 m sure horror story demo  everyone s horror games vr  m interested  prefer explore areas largely unexplored 
+cpu gpu  problem  typical judder either  like every second 3 4 frame delay edit  seems happening video playback monitor  rest butter smooth far 
+ intense  massive  painful judder desk scene  4790kgtx980  fps never drops 70  usually sits 7374 
+strange  quality setting using  work fine 042 sdk 
+ judder desk scene nt  w8  970m  i74710hq still great work frooxius  voted steam greenlight  
+ running demo direct mode get 40 fps  extended mode 70 judder  also set quality fastest  mirror body  may slow computer  upgrade     
+""
+overclocked i73770k ivy bridge gtx980 one cpu cores maxing   may need man buy new cpumobo
+awesome  thank showing others 
+thanks feedback  people seem report judder  time suspect s new oculus sdk  try different quality settings disable mirroring see helps 
+thanks info   normal nt matter  means runs fine  tried fast setting well 
+sorry hear  seems 043 sdk introduced performance issues  ll see 044 comes  hopefully ll get better 
+one new oculus sdk 043 comes 
+yes   work   https  wwwyoutubecomwatch  v9yigar0jdt0  plan full game gameplay character might get well  m sure interaction things  sensible one desk scene m sure want people throwing things around breaking   ll see  kind leap support  least able see hands interact  chair  
+yay  plan release linux version  want test first make sure least starts nt make black pink screen something  happened ago older builds  chair  
+s strange  people weaker gpu s ran fine  try different quality settings  turning mirroring also help  make sure nvidia control panel nt forcing settings 
+yay  thank much 
+awwr  thank youuu   
+thank much 
+interesting  wonder alters perception demo  mention  people called  lsd simulator  times  
+wow  thank much  s honoring hear made impression  ll certainly bring  3
+yaaay  thank much showing others  yeah  improvements nt change experience significantly  rather add  polish  details 
+hmm  peculiar  ll wait new oculus sdk see helps 
+oh cool  m glad liked sorry arthritis  idea affects neck well   thank 
+thanks  s always nice hear inspires motivates people  beyond wanted achieve demo  hope adventure beginning though   
+yay  ll tweaking binaural audio next version    thanks info  m quite sure causes  think s new oculus sdk  ll definitely keep improving seeing make run smoothly  thank oo
+thanks info  ll wait new sdk see helps performance  adding subtitles speech instead  s pretty important experience introduces concept looking around change scenery 
+ll install linux distro soon test soon  last time tried  04x sdk s  issues 
+thank  
+m sorry issues  nt think s side  seems caused new oculus sdk  ll wait fix 
+uploaded oculus share  takes approve  guess s lot people downloading right 
+probably  sorry  takes lot work create arrange transitions scenes semiinterdependent  would cost tons time either create kind generic transition scene implement possible permutations  hand  would rather make ui  rather configuration file  nt user friendly break experience  
+yaay  ve bunch troubles well  3dception guys really helpful helped resolve  hmm  s strange beginning gets judder  happen video playing  quality setting using  scenes work smoothly  thanks info 
+woo  thank  s nice hear precisely goals demo  show possibilities vr create worlds familiar  also showcase concepts possibilities vr obvious play mind  thanks showing others 
+yeah  congratulations  dude  well earned  totally mesmerising experience 
+maybe make demo based exwife 
+ seems happening   video playback monitor    rest butter smooth far  problem earlier versions sightline  4690k 44r9 290 try new version tomorrow 
+getting intense judder scenes  apparently still getting 75fps 
+know s problem  really aim flat 7576 make difference  
+tried standard  good  setting  one  results  previous version sightline nt issue 043 runtime  even higher quality settings 
+sorry hear issues  hw 
+s definitely hw issue  seems software issue  probably sdk since people reporting fine 042 sdk  got weaker cpu  i5 2500  actually 
+cpu gtx 980  mobo  asus p8z77v precise  cpu actually task anymore  never thought time upgrade already  
+i72700k  gtx 970  win 81  judder cases  jumping right space scene seems fine first quickly gets really bad move head around  tried quality settings  vsync onoff  mirroring onoff  direct rift  rift external  primary   sadly  always result 
+ judder  lags fps 
+yes  one 
+ll try later  last time tried back september 
+yeah  happens titans space direct mode well since update  hope fixed next sdk
+kidding  sightline benchmark application  
+might issue system  tried empty scene single point light cube unreal 4 editor similar performance issues whenever looked cube  sli sli  fiddled nvidia 3d setting virtual reality prerendered frames  setting 1 4 nt seem make difference either  better wait new sdk guess 
+help test  need guinea pig 
+worries  thanks buddy  
+great update  performs lot better  still odd judder volumes grass appear  video plays beginning  longer consistent  s 75fps every second ll jump   mostly feels smoother machine  great improvement 
+ah  must one infamous sdk 043 problems  dramatic changes unity sdk   sorry issues  seems ll wait 044 
+amd athlon 2 x4 620  quadcore 26 ghz  nvidia gtx 660 ti graphiccard win7 64bit  4gb ram  pc really isn´t fastest  issue may side  edit  guess  one downvoting  isn´t reading  wrote  issue may side  also people much faster pc issue  frooxius last version run fine  another cause judder 
+asus p8z77v deluxe  overclocked 4793 test bring windows task manager  performance tab   resource monitor button  cpu tab  fourth core hitting around 90   m refusing upgrade broadwell released  side note  time rifters runs flawlessly
+try  fastest  well  help determine issue stemming somewhere sdk  although think probably 
+yes  s  nt fiddled way 
+thanks info  ll update next sdk comes see 
+s heavy hw  
+well ue4 expensive hell even simple scene  got tons stuff default  ssrr  ssao  hdr  bloom  lens reflections  motion blur etc  
+thought cat  yes  could use linux testing  variety 
+thank info  m glad runs better  new sdk seems worsened people  nt done particular performance optimizations build though  must oculus  side 
+issue dark desk scene framerate related  looking video monitor  affects everything around  nt really seen type skipping 043 demos utilize video  980 5820k  also  appear stuck scene grass turns buildings birds flying  sat 10 minutes looking around everywhere scene changes around 
+yeah s cpu 
+worries 
+haha   well  scene full foliage good test  meant experience  s pushing boundaries great success  ps possible get book space scene  wanted cameo diorama m making
+alrighty  one note  currently sdk works nvidia cards  messed call  s tracked think wo nt fixed next sdk release   s handful persystem issues  ve got working well enough sdk demos tf2  although tf2 think still old sdk version 
+ah  s  sdk  must say vignette pretty bad  nothing  
+strange  issue previous version  15  used 042 sdk  getting stuck strange  still nt found happens sometimes  s one worst bugs fix way     run several times debugger attached never happens   nt ran since bug  could send outputlog file data folder 
+ worries anyway 
+yeah  heard current sdk bunch issues  ll try update 044 soon release 
+ll try add option switch  nt like much either 
+nt many issues getting stuck desk scene judder previous version  used 043 runtime 15 version added forced3d11 direct mode shortcut get working  latency newer version seems lot lower though 
+ve stuck 4 times  ve demoed 100 times   may need debug  several times  indeed 
+hah  ve found 431 vignette quite subtle  many people complaining  realized  bet annoying wider ipd  narrower ipd maybe ca nt see much someone  say  70mm  anyway ll definitely check tonight 
+reading last comment realize came sort jerk want clarify  absolutely love demo  minute minute fun anything else vr  loathe vignette  takes mostly able ignore fov  aware every single second experience   thought resolution really held experience back  resolution fov anything new sdk 
+please let us know update version vignette  massive immersion breaker  stopped playing elite since updated  demo time favorite stick old version 
+hmm strange  15 version used 042 sdk could difference  s strange need forced3d11  since demo already uses dx11 default 
+yes  ran debugger lot  several times   point never happens debugging  demoing people  makes difficult trace replicate 
+nt like much either  slightly narrower ipd average  think depends close oculus face  pretty close  could see edges look 
+ bet annoying wider ipd  narrower ipd maybe ca nt see much someone  say  70mm  nail  meet head  ipd 70mm dot  043 vignette abhorrent  demand disabled rift media use  otherwise massive impact field view  probably chops good 15 degrees vertically 10 degrees horizontally  disgusting  needs toggleable every rift application 
+oh nt silly  nt come jerk   although honest  worry lot time  nt like vignette  m sure turned oculus  plans  like could part profile   planning looking enabled disabled providing option  assuming oculus nt 
+042 version demo add forced3d11 get direct mode working else would crash immediately  new version works fine without  issues mentioned 
+also got stuck scene ran fast demo  ve always judder desk scene first version one s nothing new 
+understand  wanted report possibly helpful statistics bug   seems people take complaining  though  instead noticing much ve demoing 
+yes  bloody ruins everything nt know people nt complaining  elite literally went immersive annoying  hope actually getting fixed  though  unless oculus decides default   suspect drops rendered fov  thereby raising performance  doubt ll ever happen 
+similar experience average ipd 
+already many demos disabled  give option disable  s part sdk  runtime like many people think 
+s still quite strange  used dx11 default since first version 
+sorry issue  outputlog file getting stuck 
+ nt know people nt complaining m guessing people nt wide enough ipd relevant  since mean ipd around 64mm
+oh cool  nt poked around new sdk much yet  nt know  thanks info  d cool setting profile though  d uniform experiences 
+mine 65 though  s extremely noticeable  distracting   granted seem notice technical issues whole lot  enormous oversight view 
+binaural audio standard oculus rift games  convinced next big step immersion virtual reality 
+lot discussion optimizing visual experience  acoustic immersion  listening  virtual barber shop   http  wwwyoutubecomwatch  v8ixm6suuigi  clip believe oculus rift games need binaural audio  way around  already efforts direction  oculus vr game developers aware binaural audio  hope nt waste opportunity make binaural audio standard oculus rift games 
+technology seems gone backwards ve noticed  almost games used  headphones  option either option nt exist  nt seem create right effect  course  surround headphones  things like built  average user headphones  option seems missing games  added  plus option really game rather provided third party make accurate scenariosituation 
+binaural audio absolutely exploded rasmr community last year familiar  goal almost virtual relaxation guide presence help anxiety sleep aid  even low quality videos right audio feel real good headphones dark room  contrast busy gimmicky barber shop clip  check video one popular artists  http  youtubeq5lhjfxloa8 many asmrtists shelling    powerful binarual mics like  free space pro   http  3diosoundcom  many consider one best market  one things many people nt know missing  ca nt go back  every asmr video watch binaural  anything else like trying go back watch vhs ca nt  takes one popular game device really capture would change market forever 
+absolutely agree  guys came svvr time ago  binaural unity plugin  vr sdir  http  wwwyoutubecomwatch  vlsxh5etsxds tried person  incredibly responsive headtracking  worked perfectly  idea guys  nt heard 
+amd s trueaudio looks like might good start  http  wwwyoutubecomwatch  vfgej4ptnq
+ listening virtual barber shop problem hrtf realtime algorithms come close quality real binaural recordings  nt even work headtracking   oculus vr game developers aware binaural audio  yes   already efforts direction   awesome   http  wwwredditcomroculuscomments1fs64cbinarialaudiowithunity3d   news since    companies try something  efforts usually disappointing  1015 years old implementations much better  devs   amd true audio   http  wwwmaximumpccomeverythingyouwantedknowaboutamd ’ snewtrueaudiotechnology2013    test   http  wwwyoutubecomwatch  v6uutflmqq    automated solutions gamers   razer surround  cmss 3d  thx trustudio  dolby headphone   http  wwwyoutubecomwatch  v04yetzjvpyy  
+technology around decades  http  wwwyoutubecomwatch  v4ywm32jscog 3d sound half life 1 wear headphones  think somthing creative audio patents nt used everywhere  use razer surround think closest get binaural audio 
+time discussion  xd cant bothered copy paste previous comments subject  see   gsound   http  wwwyoutubecomwatch  vbuu8gpg2chi   p
+ song binaural   http  youtubefh4u4ikixhu  t1m5s 
+maybe could use someone since talking surround rift  interested full 51 surround ipodany headphones w cmss3d using cheap realtek onboard sound  really helped immersionsound lot games   must download  game spirit  hacked drivers work  instructions  first must disable windows driver signature enforcement load  look  load creative mb2 software provided  game spirit  copy 3 files kga files included activator7z  softwarelock  c  program datacreative  virus detection false warning  install gamespirit win7win8r271 x64 rtm 2013  must find internet  always run everything administrator   loading  creative audio panel longer protected  reboot  set creative audio control panel settings  head phones  turn cmss 3d  use 65  stereo envelopment  settings everywhere  srs etc  realtek speaker settings clock  set 51 speakers  keep headphones settings creative control panel  use  dolby digital live test tool   http  wwwwooferbasstestcomdownloadtesttoolac3dolbydigital51chsoundtest  make sure surround working headphones  even ipodiphone headphones work   trouble windows 81  load game spirit creative mb1 drivers older release   always software unlock kgf files copied  whole time driver signature disabled  surround effect prevalent battlefield 4  makes good test  s similar aureal used work stereo headphones  use test tool make sure speakers working  seems work lot games tried rift  hear things behind  fun 
+convincing realtime binaural dsp plugins exist already pro audio world  one  huge number voices video game  hrtf processing voice  would require serious  serious hardware  realistic option voip software  mumble already  processes positional audio game buddies voices talk  s awesome  used play cod buddy would say  got back  would know precisely based heard alone 
+funfact unaware     http  wwwkallbinauralaudiocomwpcontentuploads201203imgp2997jpg  binaural audio recorded  model head  mics ears 
+totally agree  actually researched find anyone working  also came across amd trueaudio  fake static experience  holophonic  sounds putting microphones pointed ears  s obviously interactive  d need make truly immersive  bit precise  holophonic subset binaural  give bit targeted results  http  enwikipediaorgwikiholophonics s ton types binaural beat audio like holosync hemisync s design entrain brain meditative state  focused state fall asleep  also something could work really well vr experiences  d recommend searching around examples holophonic audio samples get ideas s possible 
+definitely agree  ve discussions friend back audio something re fully behind yet  nt really see value  basically  ears give us whole bunch cues help us place world re  s believable  sort takes us  eyes  ideally  would portion gpu alotted computing sound rays   sort like really coarse ray tracer since ears nt focus like eyes   sound events would cast rays reach player s ears  could get things like distancebased delay attenuation  attenuation translucent materials  materialbased reactions   hard reflections  like concrete    seems like sort thing belongs gpu since level data already  d need material data walls  nt seem like huge problem  additional parameter   think sort sound would mindblowing  particularly vr
+sound cards almost rendered useless days people using onboard audio save money better video card  think creative looking developing binaural audio nothing else become relevant   came sound card specifically designed work head tracking binaural people would buy like hotcakes additional immersion piece vr  said think next logical step vr immersion think long run get probably version 10 vr  rome nt built day think need happy released first happy much better vr experiences come coming years   improvements areas immersion vr  
+binaural good wearing headphones may want investigate ambisonic  aka bformat  recording  microphones use expensive recently manufacturers brought price around  1000  uses 2 figure 8 mics one omni capture spherical sound w great deal angular accuracy  decoded either binaural using headphones nnumber arbitrary placed speaker arrays  course stereo surround   decode rotate decoding match movements oculus 
+open libraries creating binaural output 
+someone  nt skills    make demo using soundtrack upload riftenabledcom might make people see light  edit  link top poster seems come pretty close  though ca nt seem find riftenabled 
+watched 3d music video  hello   http  wwwhelloagaincombeck360mainbeck360html  beck directed chris milk  optimized oculus rift 3d video audio  hit floor heard  definitely ca nt create kind sound anything except genuine omni binaural  decided quit job start company around binaural audio virtual reality  m beta right  vrsfxcom   recently got hold 3dio s omni free space mic  fyi  jeff 3dio guy mixed mastered audio beck s video  really knows stuff  first field test couple days ago new gear  future 
+binaural static recordings  useless positionally tracked experience  hrtf need  binaural gimmick based soundstaging 
+hope  amazing  definitely think games use  seems game sdk s offer already 
+agree entirely  unless audio source recorded entirely binaural  video  would nt technically difficult implement  real time binaural difficult  await day happens 
+addition famous virtual barber shop  try viewing videos rift  via vrplayer   http  wwwyoutubecomresults  searchquerybemecam  sm1 3d videos binaural sound  sound picture complement enhances immersion  videos recorded either head mounted camera rig  earworn microphones combo  3dio free space 65mm ipd camera stereo pair mounted top  video binaural sound limited  prebaked application binaural sound rift    personalaudio working software gaming solution realtime hrtf customized user s ears via series tests  http  wwwpersonalaudiocomauproductswmehtml
+agreed
+hey  ve searching solution months finally put together rift demo utilizing exact tech  let know guys think  http  bitly1dscqfk
+developers embarrassed include 
+binaural audio insane youtube audio vr must 
+best 3d  sound scene ever heard  http  wwwyoutubecomwatch  v8ixm6suuigi  idea whats proper name
+ noise cancelling headphones bass shakers chair win   
+heard nt really understand special  sounds like normal surround sound  games nowadays already audio based characters position relation audio 
+good affordable highfidelity headphones important immersion   gaming  brand headphones atrocious  something like audio technica ad700 bare minimum terms openness  soundstage  detail immersive gaming  near future might also new ultraaffordable planar magnetic headphones push standards lowcost hifi performance 
+difference recording one sound knowing exactly listener placed vs generating sound head orientation player position  yeah  keep dreaming 
+nt really much care since m using 51 sound system  canton 51 chrono  seems work surprisingly well  start game head towards center   turn head around room sound usually wanders speakers direction m supposed hear  limit headphones 
+ free space pro many consider one best market  best binaural micophones super expensive full dummy heads like neumann ku100  free space pro best pricequality ratio  form factor great camera mounted use  would want seen street carrying mannequin head   
+nt get asmr  fact video linked kinda grossed  quite opposite relaxing 
+ check video one popular artists  http  youtubeq5lhjfxloa8  2  clicked 100  expecting heather feather  however  ll 
+also  guy 3dio also makes binaural mic setup omnidirectional   ie  multiple sets ears mounted different angles fade rotate perspective imaginary head   http  3diosoundcomindexphp  mainpageproductinfo  cpath33  productsid46 think step towards using real binaural recordings interactively things like video games 
+mics look really cool  ca nt help wonder 4channel omni directional mic 4 times 2channel binaural mic  o0
+ deleted 
+use dolby headphone  positional sound pretty great  sound quality hit makes bother use 
+ problem hrtf realtime algorithms come close quality real binaural recordings  nt even work headtracking  yet  things moving along quickly  ve harping  must keep faith 
+ different normal audio  start 3d stereo  pretty straight forward
+even got patched lot games licensing bullshit surrounding creative  d love see general technology back 
+us paying attention  s sidebar beyond  last binaural post inspired track previous posts vid bookmark  thanks discussion subject 
+ s bit linked wikipedia article      holophonics      http  enwikipediaorgwikiholophonics         holophonics   binaural recording system created hugo zuccarelli based claim human auditory system acts interferometer  relies phase variance  like stereophonic sound  sound characteristics holophonics clearly heard headphones  though effectively demonstrated 2channel stereo speakers  provided phasecoherent  word  holophonics  related  acoustic hologram    zuccarelli s company  acoustic integrity  also sells loudspeakers holophonics brand          http  wwwredditcomrautowikibotwikiindex      ukentbye reply delete   also delete comment s score 1 less          call    wikibot  something     http  wwwredditcomrautowikibotcomments1ux484askwikibot      flag glitch    http  wwwredditcommessagecompose  toacini  subjectbot  20glitch  message  0acontext  http  wwwredditcomroculuscomments1uyy39binauralaudioshouldbestandardforoculusriftcena4al 
+ eyes  ideally  would portion gpu alotted computing sound rays     exactly amd trueaudio  s dedicated bit gpu sound plugins use calculations  ray tracing  hrtf  etc   
+thatt sound cards work  simply convert digital analog  dsp comes cpu 
+sadly see companies pulling stunts like saying built binural audio head tracking  complete sham make difference quality  sound cards simply handle transition digital analog  amplification  s important audio source headphones  people  mean people spend less  50 headphones  onboard audio sufficient  want good audio setup reccomendation would spend money set headphones wide soundstage  really need good midrange iem decent soundstage around  50  would probably good enough people  end spending thousands audio gear search perfection 
+way notice jauntvr ambisonic microphone mounted rig  good use tech 
+amd working  https  wwwyoutubecomwatch  v6uutflmqq
+exactly  nt see people nt understand yet 
+proper name know holophonic sound  ll find lot demos online search  http  enwikipediaorgwikiholophonics
+probably third party surround post processing enabled  creative stuff gaming headphones  etc  need basic stereo headphones stereo mode barber video work right 
+listened video cheap ear buds still incredibly immersive  point binaural  recorded headphones relay experience  sure expensive ones would better quality  real work done recording generation audio 
+amd trueaudio 
+objects nt make stereo audio  rather  ear receives sound slightly different time  shape ears also help determine certain positions  need sort audio ray tracer uses two renderers  one ear   amd trueaudio sort thing re looking 
+ limit headphones  unless array speakers equally distributed offplane    nt going able reproduce audio sources correctly tilt head  even speakers abovebelow  d issue environment influencing sound due real world reflections occlusions  headphones allow designers remove pretty well environmental factors send audio directly ears  way hmd eyes  
+yeah  nt relaxing  listening sounds saliva plosives mic already like nails chalkboard makes effect 10000x worse 
+yeah  kidding  neckhair standing  goosebumps  bad ones  terrifying surreal surety wants cut heart spoon  lasted 12 secs close vid 
+s one phenomena different person  triggers asmr one person may nothing someone else  experience 
+heather definitely popular reddit maria always og badass  still blows mind something underground years ago  one first nonhd binaural videos nearly 45 million views 
+nt source  ve heard creative essentially killed hrtf  bought company making ton breakthroughs  got ton patents  stopped anything 
+software audio systems use two speakers volume get spacial effects  work fine normal speaker setups  s extremely irritating using headphones  spinning next audio source change volume 0  100   alternating speaker   ears work much differently  gauge distance based amount lag sound hits one ear  shape ears enhances effect well  effect nt exactly work headphones  need binaural audio  like 3d head tracking allows eyes gauge distance depth well  binaural audio allows us hear effects happening around us without extremely irritating inaccurate changes volume  use razer surround personally  since s free time   works fairly well converting multichannel 71 surround binaural stereo audio  least sounds much much better razer megalodon headphones  surround sound super  tinny  usb headset  buy stereo headset install razer surround software  
+s cool  many new subscribers s hard avoid discussions links cropping  one particular popular though  goes show important good audio  
+really binaural sound  word mentioned description 
+ s bit linked wikipedia article      holophonics      http  enwikipediaorgwikiholophonics         holophonics   binaural recording system created hugo zuccarelli based claim human auditory system acts interferometer  relies phase variance  like stereophonic sound  sound characteristics holophonics clearly heard headphones  though effectively demonstrated 2channel stereo speakers  provided phasecoherent  word  holophonics  related  acoustic hologram    zuccarelli s company  acoustic integrity  also sells loudspeakers holophonics brand          http  wwwredditcomrautowikibotwikiindex      ukentbye reply delete   also delete comment s score 1 less          call    wikibot  something     http  wwwredditcomrautowikibotcomments1ux484askwikibot      flag glitch    http  wwwredditcommessagecompose  toacini  subjectbot  20glitch  message  0acontext  http  wwwredditcomroculuscomments1uyy39binauralaudioshouldbestandardforoculusriftcenbad4 
+oh s far better quality  raw details   headphones great balance detail  eg  popular one somewhat affordable sennheiser hd600  number others  deliver much realistic timbre lesser headphones  meaning voices  environmental noises  metallic sounds  explosions  etc etc  anything recorded real life used ingame sound lifelike  analogy would going say averagejoe 1080p tn led panel hypothetical panel retina display level pixel density  plus true black black eyeblinding white  quality  actually trick mind make things convincingly real  real issue though actual realisticsounding headphones hard find even headphone audiophile selection cans  simple metrics gauge one headphone better another absolute level   1500 headphone might actually less realistic sound presentation another  600 one  instance  s black white price  performance curve unlike techs like screens computing 
+obviously people wrong home theaters years  51  71  91 beyond  even cinemas  ve handed people headphones played back binaural sound  besides  tilt head virtual world sound source nt change place hear sound different tilted head real world sound source nt move  every hmd exactly guarantees best possible experience  people waited vr years probably know  call back properly emulate 57 sound sources rich bass via headphones maybe ll convert   p
+rasmr vs rmisophonia fight 
+headphone hobby catching thanks infamously poor sounding stylistic beats dre    rather decent headphone audiophile setup  naturally  people become headphone users  binaural audio catch well  asmr  offshoot  developed fans  m glad s catching  really important immersion s sake 
+ read    http  enwikipediaorgwikiaurealsemiconductor  history    tl  dr    sue competition  die legal costs even winning  buy negating damages  free competition 
+term  binaural  used context binaural recordings like virtual barbershop  binaural recordings work baking real hrtf changes recording  games implement form 3d headphone output  cmss3d  dolbyheadphone  thx trustudio pro  openal soft  etc  apply hrtf game s 3d sound environment mix stereo mix headphones  order hrtf sound accurate  needs closely match brain expecting hear sounds actually bouncing faceheadears  3d audio solutions onesizefitsall hrtf s attempting give decent 3d experience everyone  accuracy vary substantially person person  people hear sound think s flying overtop head  others hear sound think s passing front eyes  s case even virtual barbershop peoples heads may shaped dramatically differently dummy head used record 
+quality sound immersion less binaural sound  proper spatial effect sounds simply adds realism virtual reality way better sound quality ca nt  would like options either stereoscopic vision high resolution screen  obviously desired  immersion virtual world  resolution far less important stereoscopic vision 
+ obviously people wrong home theaters years  51  71  91 beyond  even cinemas  ve handed people headphones played back binaural sound  nt noticed tvs cinemas screens fixed place  want audio source fixed relative visuals  speaker systems filmtv well suited  hmd screen constantly moving  need sound source track screen  speakers work turning head leftright  nodding head forward back  circumstances ear given correctly adjusted sound different speakers either side head  leftright tilt however   besides  tilt head virtual world sound source nt change place hear sound different tilted head real world sound source nt move  tilt head 90deg vertical axis becomes leftright stereo field  something  able tilt head hear source get louder one ears quieter  speakers tilt head 90deg ears getting exactly sound  re playing wolfenstein 3d  speakers reproduce leftright tilt correctly say game world effectively flat plane speakers  tend play games full three dimensions though   call back properly emulate 57 sound sources rich bass via headphones maybe ll convert   p s reason wanting properly simulated hrtf constant reposting threads  two ears  need two sources  basically zero progress made 3d sound last 15 years  ways could argue s actually regressed longer hardware accelerated 3d sound api windows  oculus may well end roll sleeves 
+ s linked section  history   http  enwikipediaorgwikiaurealsemiconductor  history  wikipedia article  aureal semiconductor   http  enwikipediaorgwikiaurealsemiconductor       march 5  1998 creative labs sued aureal patent infringement  aureal countersued believed creative guilty patent infringement  numerous lawsuits aureal favorable ruling december 1999  vindicated aureal patent infringement claims  legal costs high aureal filed bankruptcy  september 21  2000  creative acquired aureal s assets bankruptcy trustee us  32 million  purchase included patents  trademarks  property  well release creative infringement creative aureal s intellectual property including a3d  purchase effectively eliminated creative s competition gaming audio market  also eliminated requirements creative pay past future royalties well damages products incorporated aureal s technology          http  wwwredditcomrautowikibotwikiindex      uboll7708 reply delete   also delete comment s score 1 less          call    wikibot  something     http  wwwredditcomrautowikibotcomments1ux484askwikibot 
+s sad   
+ deleted 
+one greatest losses time  imagine first real video card company sued existence inferior competitor  still rendering software  today  graphics mid 90s  s devastating  creative  way  burned library alexandria  re slowly working way back stone age rest future forcing us  aureal card  btw  vortex  unbelievable  imagine speakers hands  could throw sounds like pingpong balls across room  switch headphone mode  adapts  suddenly ve got realtime binaural processing  pointless waste 
+ speakers work turning head leftright  nodding head forward back  circumstances ear given correctly adjusted sound different speakers either side head  leftright tilt however  ’ see many uses  even vr standard movement usually turning aroundturning head around 360° looking  ’ additionally want positional tracking position space  looking something closely  around corner  moving head forwardback   rarely ended tilting head ’ end ears pointing ’ really know game would require  anyway  even actual usecase lot importance  let ’ assume  many cases hear something directly  ’ see two speakers strapped head  simulating  sound coming certain directions better job actually   sound come certain directions  instance since mentioned wolfenstein  imagine nazi soldiers shouting shooting truck running engine  ’ expect sound come direction  positional speakers exactly happens eg  hear firing shouting front right hear truck engine behind left  headphones simulate coming direction speakers situated directly left right case tilting sitting ears  thing never happens real life since truck sound source still 5 meters front regardless tilt head  hear slightly distortedthe whole world wo nt turn tilted head   ’ sure  simulating  sound coming certain direction would ever better actually   sound come certain direction  ’ rather sounds bass actually come massive moderately accurate speaker system trying simulate stereo headphones rather restricted due size  got sennheiser pc360  ever actually put purpose communicating via voice friends game due requiring microphone front head eliminate reverb 
+wow 
+always wondered aureal went 
+makes sad humanity 
+s legal money 
+blame government  patents grants monopoly government 
+tried writing longer response different ways different examples  s probably worth convince small minority  agree multichannel speaker systems provide much pronounced positional audio within limited scope  end requiring hrtf adjustment sources plane  fail altogether positions  hope sake game developers invest necessary time adjusting sound setup speaker crowd  cause otherwise s going pretty broken experience  pretty much every game ever made sound reception pinned camera orientation  camera orientation controlled heads  headphones ready made fit  virtual ears receive sound exactly spots headphones play back  speaker users hand going require special sound setting order decouple virtual ears camera affix shoulders  maybe fudge sort hrtf compensation simulate vertical information  games demos available currently rift  many speaker option toggle 
+ pretty much every game ever made sound reception pinned camera orientation  camera orientation controlled heads  headphones ready made fit  virtual ears receive sound exactly spots headphones play back  never really thought  right  moving head left right sound kind wanders speakers  tilt guess nt place go  sense adopting binaural audio would even worse thought  since use limited headphones 
+game nt vr speaker setting  move head direction re going getting wrong positional audio speakers  virtual audio source front game  ll hear front speakers get correct positional audio  turn head left  right ear facing towards sound game   audio speakers end played right speakers directly behind head  every degree turn head one way  audio move opposite direction equal amount  s bad   headphones get correct positional audio matter head  would really want situation audio move remain fixed front speakers regardless head  even games incorporate options  solve positional issue audio sources coming plane speakers  sound coming 45deg speaker sitting  speakers need additional processing fake vertical element  incorporate  binaural  hrtf processing based whether sound bouncing forehead re looking  bouncing face re looking directly  hrtf changes sound much simpler implement pair headphones due much fewer variables mix  would nt get hopes polished speaker experience vr 
+game thrones  wall – unofficial  binaural audio
+first unity demo got  sky cell turned ok decided build something bit ambitious – got  wall  know already official rift activation wall tours around hbo  seems unlikely released  made   screenshot   http  blogbobjwattscomwpcontentuploads201406screenjpg  controls  wasd f open doors download   dropbox download   https  dldropboxusercontentcomu68759446thewallzip   mega download   https  megaconz   clifwk7i  a0b5crwcodqzamea7pi45xbwpptnsis5oyqusbhea  linux  https  dldropboxusercontentcomu68759446thewalllinuxzip os x  https  dldropboxusercontentcomu68759446thewallosxapprar learned whole lot unity demo   modeling unity blender  creating texturesmaterials  lighting lightmapping  performance tweaking  collisions  particles created models textures apart terrain mesh snow texture  also used awesome 3dception binaural audio plugin  two big ears   http  wwwtwobigearscom  binaural audio certainly adds immersion super helpful questions  ’ plenty could done  got ta know hold em ’ fold em ’  hope guys like  love hear feedback  edit  formatting             update wpkenny uploaded video yt   http  youtubezdapaaby1a   http  youtubezdapaaby1a  linux os x build way 
+recorded quick run nonrifters  m youtuber anything s rough video give good idea s like  s still processing youtube write eventually become halfdecent quality  http  youtubezdapaaby1a
+nonrift owner  yet  d love see footage 
+sounds like nice project  export linux executable  thanks 
+okey tried  cool demo  like sense scale ll get soon stare upon great wall  make open doors interact stuff xbox controller  walk control stick  add stuff  details  cool experience  especially got fans  edit  also  would cool look see ground beneath disappear go higher higher
+nt work pc reason  get black screen fades  nothing 
+nice  sense scale wall pretty cool  please tell m something wrong way go lift  
+two big ears looks interesting  wonder made also work video streaming 51 surround binaural  sound could rotated head tracking  could great software audio solution vrplayer 
+tried  recommend reducing loading screen time 5 seconds  sat dark 30 seconds slowly faded  sound good  snowflakes nice touch  hoping see beyond wall top instead greeted trench  think bit landscaping side reduced fog effect would nice 
+thanks putting effort make  cool experience  movement speed nice slow footsteps  especially sound walking snow  added immersion nicely  thought elevator contrasted wall much looked place could settings  keep good work
+hijack  version wall hbo released  ca nt find one point website company created  whose name escapes   anyway  saved put copy  http  bitlythewallrift
+ deleted 
+ deleted 
+tried  splash screen seemed take minute fade completely another 20 seconds spent black screen  accurate depiction wall  always figured wall really tall demo wall towering    great sense scale  staring agape wall tried go steps whole game froze  try relaunching nt want sit splash screen 
+way adjust ipd height  press space says ipd 58xxx mm height 168cm  values sdk config tool  also perspective looks weird m turning head 
+nt find riding elevator especially exciting  slow  afterwards climb wall look  closing vertigo xd love sense height  works well m prone vertigo real life certain situations  haha  s panic inducing yet though  probably wind simulators  fans   etc bla bla  like hbo version  falling bit odd right  yes jumped  actually hesitation  bit unsure could actually fall  trying meant ride elevator get explore  eventually tried  exciting  clip wall way though  p got bit weird  heh  enjoyed much  like could walk around castle black rode elevator  sure looks small   haha  oh deceptions  mind explodes thinking vr adventure games based popular ips  feels like compelling product  stark contrast feel screen games based movies today oo weird works  still needs quality content though  m guessing first things come  quicker product  vistas  dioramas  experiences limited interactivity like  full games takes time make probably appear much later  thank glimpse future 3
+go learning unity 
+cool  planning adding experience  think lot said experience demos full games  plan make sources available  really awesome btw 
+oh thanks much  ve trying different software without success  thanks 
+lol started opening door elevator going 
+nt created video yet  ll try get one soon 
+ https  dldropboxusercontentcomu68759446thewalllinuxzip let know works 
+hey thanks  ll add xbox controller support  nt one  preferred xbox action button 
+oh s good  tried machines  specs 
+yes  press  f  key open lift door  walk 
+agree would awesome complete scene fully  think m going move another project though 
+thanks kind words  constructive feedback 
+official hbo version  s another fan made version 
+nt know sure  nt think version used hbo exihibit 
+good catch
+audio lift show 
+thanks 
+yep  took details wiki http  gameofthroneswikiacomwikithewall  wall 482 kilometers  300 miles  long 213 244 meters  700800 feet  tall 
+m using latest oculus sdk box  changes 
+thanks boll great reply  glad enjoyed 
+followed steps   come small idea  download unity  watch unity basics tutorial youtube  start building idea inevitably come hurdle  like  make floor   point open google search  literally  s huge resource 
+thanks  might open sharing 
+problem  someone asked possible jump wall gave go    http  youtubel7fsmafuixc
+ wpkenny uploaded video yt  http  youtubezdapaaby1a
+thanks  ll try tonight 
+gon na update dk2 
+""
+never mind  works  take long game start  honestly thought game broken long black screen beginning 
+thanks  mashing xbox controller luck  issue way groundsurface turns blue  top would good able see bit  overall great demo  thanks upload  
+thanks hint man  deleted oculus folder c  users  username  appdatalocal problem gone 
+s similar strategy  thanks advice comp sci background 
+hah  makes sense 
+looks like upped oculus fade time  testing  must used 
+thanks  yeah nt get around addressing  s probably something like texturequalitydistance unity 
+good stuff  wonder many people affecting 
+cool  yes  completed multimedia  hurts say  diploma 1998 web developerdesigner since 
+m launching virtual travel show oculus rift using 3d cameras 3d binaural audio  check kickstarter  wolf abroad  
+""
+video sample setup  would nice know details fov  resolution framerate
+issues  m sure footage great watching 3d tvs  rift  s really going work well    dummy head  technology capture video stunning 3d hd  eyes see  binaural microphones place silicon ears equidistant human ears create 3d stereo sensation  steadicam stabilization system create fluid motion mimic human head s calibrations smooth vision  rift  viewers need able turn heads look around scene re watching  generally requires use either camera array least two cameras 180 degree fisheye lenses  vr playback software like  vr player   http  vrplayercodeplexcom  able display type footage rift  although s best correctlyconfigured custom player works outofthebox  could based vr player   turn head  audio sources must remain fixed space  move  requires use microphone arrays sophisticated enough uniquely locate audio sources space  simple binaural mics ca nt really without complex postprocessing   special software playback hrtfs  vr player nt  players like total cinema 360 s   steadicam problematic rift footage induces moderate amounts acceleration long periods time  s fine moving fixed speed along line  turning slowly  sweeping cinematic curved movements induce vr sickness 
+m wondering ll see first stereoscopic 360 camera system lets look      always lose immersion look see weird black circle  logo  camera harness apparatus body  system yet   nt seen  seems like ideally d customizable  self  avatar could augment cameraperson  perhaps camera operator wears fullbody greenscreen suit masked later replaced digital avatar  tiniest bit nose lowermiddle frame would help lot 
+unless re planning everything put 2 weeks labor  re asking nearly enough money  think ask 10x put serious production  fundraising additional episode 
+amazing  good luck project 
+sounds awesome  really curious cameramic setup  though  many degrees camera  many mics  sound change head turns 
+guys shooting video headtracking mind  180 fisheye headtracking 3d  wide angle lenses fixed perspective 
+man  really hope hits goal  awesome vr concept needs exist 
+good luck game  d love help  nt credit card donate  looking forward release though 
+pitch video  project aims release film  strange see evidence video production  please nt take hate  seems like lack commitment campaign  best luck hope get valuable feedback  wo nt backing  nt give though  s good idea worth refining  may effective way get valuable feedback 
+backed  really nice selection  targets    
+sorry say  nt sample footage  kickstarter provide necessary funding build rig  ll uploading examples content show soon possible  details  ll using 2 gopros  steroscopic mount  1080p superview  extreme wide fov  create 180 degree 3d hd videos  24 fps  option slowmo   use vrplayer watch show  format  side side  projected dome setting 
+ll using 2 gopros 1080p superview  extreme wide fov  fisheye  capture content 180 degrees  using vr player  watch side side projected dome setting  ideally  would using 3dio omnibinaural mic umrison pointed   2k mic though  kickstarter budgeted regular 3dio   500   would love get funding provide yall 360 audio immersion  matter money  please fund spread word exceed goal buy one  thank note steadicam  limited experience using oculus  nt one   steadicam used grand  sweeping  cinematic motions  mimic smooth vision human head hike forwards 
+yeah concern well hear specs ca nt back  nt mind s 360 degrees  needs room head movement rift indeed make quite disoriented  sick  
+needs   3dio free space omnibinaural microphone   http  3diosoundcomindexphp  mainpageproductinfo  cpath33  productsid46  zenidml8e6lvig4ccmphmh82fmshbl7 
+ricoh theta budget 360 degree camera takes pictures everything around  also loose centimetres due stitching together two 180 images s acceptable  s hd nt record movies 
+would killer  ll always looking upgrade show move forward full seasons pilot 
+kickstarter pilot episode  money create custom rig travel expenses camp throughout 4 parks highlighted  goal create popular youtube channel use pitch material get funding full season  travel world  give viewers best global experience 
+thank  help us spread word  would love viewer someday 
+ideally would omnidirectional binaural mic  quite expensive  order realistic kickstarter  goal  opted use standard binaural mic  sound would fixed  please help us exceed goal buy omnidirectional bring best content tech  camera provide 180 degrees 3d immersion allow small head movements within fov 
+180 fisheye 3d using vrplayer  similar program   formatted side side dome projection
+agree  thank  please help us spread word  want share awesome experiences rift users  
+thanks 
+hey  thanks note  main reason pitch video equipment create 3d content  hence ze campaign funding   thought would odd upload traditional 2d vidaudio pitch 3d project  plan upload video later campaign update keep interest going strong throughout 30 days  going purchase binaural mic money midway upload video least demonstrate 3d audio immersion  thoughts  get 2d pitch vid  seem know kickstarter well
+thank much  please continue spread word  really want bring beauty parks rift 
+hmm interesting  24fps cause weirdness viewed thru vr headset  d think would introduce pretty severe motion blur 
+superview mode standard gopro lenses immersive vr player  170 degrees  diagonal  view  125 degrees horizontal  90 degrees vertical  gives maximum 175 degrees lookaround experience left right see leftright borders images  vertical borders well view  might well use tracking  use rift regular 3d viewer youtube content 
+extent inspiredinformed experience japan demo  nt rift basis reaction videos seems like whatever technique used managed get result re hoping 
+see  hope answered questions  feel free message  would love support 
+exact mic looking towards  kickstarter budgeted regular 3dio  ideally  would use mic  spread word hopefully exceed goal buy 
+ s stereoscopic  d lose sense depth 
+re welcome  majority funding ll raise generally first three days last three days  campaigns acquire 10  first day two generally good chance successful  keeping momentum start problem  take makevr example  sixense launched campaign prices backers said high  sixense responded feedback fairly quickly  became apparent late make real impact public perception time   wisely  cancelled  yei held ks priovr tracking system quite ago went pretty poorly  yet learned mistakes latest attempt wildly successful  even ks nt go well  proof second chances provided research  study kickstarters done well  careful kind rewards promise  international shipping nightmare  blowing money kickstarter makes expert yeah   p valuable thing offer  look ks pitch honesty  even project described concept imagery  see creator s passion vision  see eagerness overcome obstacle dream generally always back interested project  forced  clear goals  straight forward regards challenges share passion  every bit effort put selling idea convinces us care  lots people oculus forums d willing help technical advice  filming  well reach potential backers  research research research  hope helps 
+imagine huge problem  d recommend testing 720p 60fps  lower resolution fov least 60fps base test vr  testing oculus  right 
+exactly  regular 3d viewer available  however  wo nt using standard gopro lenses achieve 180 degrees  nt want give away recipe secret sauce  nt tested lens setup obviously  need funding equipment  extreme fisheyes distort much  may resort regular 3d viewer  thanks advice 
+actually inspired 3d binaural walkthrough  machu picchu   https  wwwyoutubecomwatch  vs0ugsaksbay  check  s experience japan demo  link  would love learn technique  thanks 
+m fully aware  even 2d 2ddepth could interesting enough  far know cheapest simple use camera takes 360 degree photos nt cost 1000 usd 
+yes  ll testing rift find optimal fps  thanks suggestion 
+well  one secret sauce use sunex 219 m12 fisheye lenses  like one stereo rigs  gopros gives 185 degree wide  150 degree high fisheye view  bunch full circle m12 c mount  adapter  fisheye lenses use gopros  less hacking  couple recent vr player movies rig  maybe help judging whether distortion much http  wwwredditcomroculuscomments2147kmmoreriftvirtualrealitycinematographyin http  wwwredditcomroculuscomments217okqgooglestrekkerportablestreetviewrigin
+basically s virtual tourism oculus rift  via dude camera wandering around  ya go   reaction video   https  wwwyoutubecomwatch  vxyyyq6bprk  t42s   sitedownload   http  polygonwindowproductionscomportfoliooculusriftvr360video 
+awesome  thanks  also rift yet  wo nt get full effect  least learn
+new sightline  chair  gets 3dception  binaural audio  developer discusses vr audio  road virtual reality
+""
+audiophile  ve always felt audio afterthought titles  glad see starting get love deserves 
+m giddy like school girl  need something good use new sennheisers 
+maybe finally games monsters behind thick walls ceilings wo nt heard right next 
+seehear big difference 3dception visisonics software  used right 
+know going sound little ungrateful  anyway  eta 044 build sightline  go demo showing dk 2 currently pick version awesome binaural audio far less awesome vignette  043  version neither  042 
+yes  s amazing realistic audio feel whole experience sound generally important  s sometimes gives feel visual information  like shooting gun game rock falling  would nt nowhere impressive without sound   wo nt happy get least really good wavetracing  something functionally equivalent  games  simulating sound keeps bouncing complex environment  diffuse materials 
+check affected  cabin  looks incredible 
+think claims binaural beats hemisync   read years ago heard wonder claims improved brain function brainwave state manipulation inflated 
+yaaay another sennheiser user  3 sennheiser hd595 
+new sennheisers  im gon na guess hd598 
+yes  frustrates games  keep hearing something keep looking around idea sound coming  although something bit different binaural audio like  although wavetracing create effects naturally  games already  separating level rooms example filtering sound re different regions 
+tried  different demos settings s difficult compare  3dception recommends use classic unity reverberation combination solution  felt realspace uses something  s wild guess  s big difference unity implementation though  realspace really bad api nonsensical design  room definition tied specific sound source  sound source defines room  adds 400 mb hrtf definitions project 
+prefer realspace3d  would love redownload update projects m working site    http  realspace3daudioapps1and1comdevelopers  plugindownload  two weeks  096 version sight  still 4 audio source sound limit  oculus mentioned going release realspace demo couple months connect nothing far either 
+imagine would like  virtual barber shop   https  wwwyoutubecomwatch  viudtlvagjja  head tracking  s already immersive moment  mixed head tracking visuals would astounding 
+""
+something ve ever heard  ll take look though 
+hd 600 user  ugh  re absolutely fantastic  step m50s
+yup  ca nt beat  110 
+yeah  s probably realistic gets  use rig microphones actual models ears  capture sound ears would  edit  picture  http  3diosoundcomimageshomepageslide1jpg
+love game papa sangre  ios  s basically stimulated binaural audio game video  traverse environment using sound  s pretty fun 
+omg   awesome  links things like 
+thanks posting barber shop link  great  never even knew possible  question though  hear anything front  hear left  right  behind  never forward  ive tried bunch binaural 3d  including sightline  realspace  various youtube vids  stuff front  perceive behind  happens sightline btw 
+enabling binaural audio minecraft painless 
+months ago  explained  post   http  wwwredditcomroculuscomments1fzonqpsaforgamesusingopenalincludingminecraft   bunch work  get openal s hrtf tables working minecraft  awesome binaural audio sounds like objects really environment around  however kind pain  noticed instructions longer work anymore  however  turns  since minecraft got new launcher  lwjgl right version openal job   s video showcasing    https  wwwyoutubecomwatch  vryohjixklti    step one    make sure re using  44100 hz  output audio  ll fall back nonhrtf    step two     windows   open notepadexe  add following line  hrtf  true save   appdata  alsoftini    saving filename box should work  someone check    linux   and maybe mac  run  echo  hrtf  true    alsoftrc s  want use custom tables   look   http  wwwredditcomroculuscomments1fzonqpsaforgamesusingopenalincludingminecraftcagd3lb   re linux want tf2  set dspslowcpu 1 also need set native runtime steam   check   https  wikiarchlinuxorgindexphpsteam  usingnativeruntime   nt want go steps  simply link openal113so native 32bit openal  ex  arch  ln sft usrlib32libopenalso  homelocalsharesteamubuntu1232steamruntimepathtoopenalso re windows want globally  handful games use openal  one   look   http  wwwredditcomroculuscomments1fzonqpsaforgamesusingopenalincludingminecraft  
+thanks  include instructions minecrift readme  m sure anyone reads   edit  hmmm  ca nt find instructions anymore  include  possibly look enabling hrtf without config file 
+ openal games   http  enwikipediaorgwikiopenal  games   tried bioshock  nt seem work 
+sounds like yet another reason minecrift first vr experience get ahold dk2 cv1 
+thank much  3
+s awesome  audio heavily delayed video though  
+s  finally get try oculus rift first thing m gon na play minecrift binaural audio  sorry half life 2 
+man s great news  really quite hassle 
+impression real time binaural audio processing really system intensive  thus explaining barely games  anyone explain  cluver talking audio delayed  related 
+since s creating file  button installer  
+ deleted 
+ca nt really say much state windows  practically anything linux uses  make sure using 44100hz 
+games pretty dead though  game d really want cs  go
+re gon na absolute blast man  mc dk1 stunning enough first  continues immersive fantastic   ca nt imagine high def low persistence  drool 
+nt played minecraft long time  s going right  massive caverns  deep ravines  giant buildings  absolutely incredible 
+last time tried minecrift  months ago  admittedly  higher latency games detrimental experience 
+thoughts exactly  ve waited long purchasing dk1  minecrift trying  dk2 release next week confirmed  right 
+run linux get hl2 binaural audio 
+really  s intensive adding proper environment raytracing  makes environment reflect sound effects  without canning  head related transfer function done entirely software 
+sure   ll add list 
+s pretty epic  even clunky dk1 
+0  back square one haha 
+ wavetracing   
+enabling without config file  ca nt yet  openalsoft author mentioned possibility making plugin  moment s accessible via configuration file 
+m sure could done enough creativity  probably worth effort config file effective restart 
+well  went route  wait oals dev release plugin xd
+added small guide enable binaural audio tf2 tf2 wiki oculus user guide   linux 
+""
+guess tf2 uses directx sound api windows  bleh  wonder would way get support binaural audio windows version somehow  tried setting openal binaural audio minecraft  windows  nt work reason  
+awesome  factoid openal  114 supports headrelated transfer functions  know  already tried vrui s spatial sound  regular stereo works really well hmds  version openal old try right away  experimental theater piece involving three collaboration sites one oculus rift two kinects  default audio spatialization already big hit performers  edit  inserted missing  old 
+work os x also right  os x supports openal 
+checklist  make sure s 441khz  make sure file right spot  work minecrafts built openal 
+s really funny  linux  using wine  windows programs end using openal anyway  get binaural sound like  borderlands 
+ however tell tf2  minecraft  even games running wine fully work sound spatialization  since wine s directsound implementation mostly points openal  m quite sad unnoticed feature  s year longer  ve promoting every chance get  next version minecrift installer include enable openal hrtf  option  accept patch  ve got hrtf tables available  plug openal 
+tf2   yep  find needs openal configuration file 
+know guide could link  nt play mc much anymore lronly sound pissed  edit  nevermind  scrolled saw comment explaining  thanks 
+another awesome point linux  programs use  audio workstation  available linux d switch heartbeat  way  got working  turns minecraft downloads openal 32 64 bit dlls replace 
+moments  run vruisoundtest  posiiton soundemitting sphere anywhere 3d using regular navigation  hrtf enabled  audio match 
+minecraft binaural would amazing  monsters sounding like re inches ear re actually outside castle gets old 
+ll try couple games 
+wooo  needs windows   
+ link nt want search   http  wwwredditcomroculuscomments258hdliaddedasmallguideonhowtoenablebinauralchev7uq 
+anymore  recent minecraft launcher new enough openal work 
+later today  actually think vrui still installed system 
+easily  s one things uses openal windows  create file  appdata  called alsoftini  put hrtftrue  
+weird  version using 179 maybe s placebo effect work haha 
+argh  nt work box vrui 31 nt force 44100 mixer frequency  added options openal context attributes upcoming release  works  think default hrtf nt match ears well  get little spatialization  luckily  cipic audio lab  one pioneers binaural audio measurement equipment think  hallway office   
+whoa  try get home  thanks 
+s good  look openal s docs  describes put things custom hrtf table format load openal 
+cv1 got way better cheaper  imagine 199   1440p cv1 proprietary binaural audio tech    result deal  would feel better 
+title  palmer stated reddit replies statements deal enables considerably cut device s price add features nt think otherwise could  nt doubt  2 billion nt pocket change  could palpable improvements repair broken trust 
+thing  hate happened  think lot concerns least slightly exaggerated   initial reaction  oculus dead     well  slept   ve seen people say facebook pop ads game sessions  find highly unlikely  know facebook obsessed advertising social platforms whatnot  doubt would something sort  predict facebookcentric social hub access want everything facebookrelated take place  vr facebook games  social networking  ads  etc   let s forget ultimately still hdmiusb device acts monitor  nt see facebook fuck game sending signal display  biggest concern heard  oh shit  developers drop support instantly  think bit overreaction  oculus still biggest vr project far  people still want vr really really bad  developers might   incentive adopt medium rift became financially stable platform  nt deny possibility everything could go shit time   hate happened  right think people exaggerating teeny tiny bit 
+yes  would feel better  would make even better would oculus manages release actual massspread statement would atleast stop biggest kneejerkreactions  swear god felt like rgaming 
+think close  250   200 would even better 
+ would nt feel better  vr coming  s stopping  facebook fucking parasite company  nothing rift justify fucked privacy policies  data rights management  absolute inability give fuck end users  s shill  s blatant sellout 
+ deleted 
+ 250 vr motion controllers bundled  
+nope  would feel much worse  said another thread  subsidized device bad thing  means make via advertisement andor fb store exclusive games  want use fully ll pay fb 
+nope  option  400 sony free facebook  would buy sony 
+yes
+1440p already given  honest  nt think vr look  amazing  re 4k per eye  seriously doubt 2 billion injection get oculus  technology nt yet  may 45 years road  said  interested finding display tech allegedly spending  hundreds millions   4k  2k per eye  would nice surprise  nt think single company world mass produce one yet   guess ll getting 1440p oled tailor made vr  rgb could cards  already knew d getting 90hz similar refresh rate   m getting  probably end getting similar specs ones ones planned deliver originally  nasty drawbacks phone screens   like hopefully rgb instead pentile   course speculation  palmer claims ll news  soon  maybe ll know something 2015   soon  could really mean anything  though point might best interest give info sooner rather later damage control   come think  would old owners spend newly acquired 2 billion help company longer  company mercy much facebook willing invest future vr  sure ll would nt sell company someone else  invest money paid back sake new owners  sadly  wait see 
+yes would also allow works keep spinning 
+like general thought thread  think binaural fundamental proprietary solution  something open across vr platforms would much preferable  cheaper rift incredible tech  part sounds great  course 
+d love able step  seated experience  palmer stated goal cv1  would huge leap 
+""
+2 billion money going company  money going pockets founders  funding company initiatives come facebook 
+ felt part something like small investments part community pushing something much bigger  feel nothing  like ve lost grip something meaningful nothing anymore s biggest loss 
+think cv1 already going 1440p screen  talking getting custom hardware  perhaps rounds 4k screens something  m keeping positive attitude things better could 
+yes  nt force use facebook bs  d rather buy  450 device  200 device forced facebook  ads 
+increasing consumer base million billion way make developers averse making games oculus 
+ removed 
+remember xbox one   announced  hate xbox one  terrible  day one launch  hey everyone look xbox one  lot people talk 
+oculus rift external monitor motion tracking  facebook acc  understood commented  carry 
+think nt fully realize much 2bn exactly  could research build medium size factory  15bn left  good point spending money company nt 
+4k oculus rift would amazing  god picturing 
+cautionary levelminded thinking forbidden  got  edit  oh seems comment everything 
+see xbone nt selling  re sleeping shelves store ps4 sold  bs microsoft saiddone pre launch hurt sale  steam really speed release something  yes hurt oculus rift 
+also forgot though lot  features  xbox one reveal repealed microsoft  things like always requiring connection 
+would apply oculus announced needlessly obstructing  inconvenient anticonsumer features rift  right  association names 
+ think nt fully realize much 2bn exactly  could research build medium size factory  15bn left  plastic housing  maybe  nt think understand expensive semiconductor manufacturing  oculus cashed  2billion stock straight building lcd plant  d get halfway finished running capital  assuming r  free   grand total 10 lcd manufacturing complexes planet  largest corporations partner order build  nt forget another billion every years refit plant operate newer process technologies 
+d spend 3 times headset get graphic cards render 4k smoothly  nt know even 3 780 ti render 4k good graphics 60 fps  ve found lot people talking 4k eye  nt seem think s still displays displays need lot computing power run games smoothly realistic graphics  probably nt good enough graphics card currently handle high resolutions realism high framerate vr would require  even 1440p good graphic card handle resolution would cost around  400  thinking gtx 770   m assuming people already graphics cards already  probably something suitable 4k  right graphics cards limiting factor  resolution 
+difference xbox something bad  knew bad  knew bad  nt situation 
+   one day  one day
+ d spend 3 times headset get graphic cards render 4k smoothly nt render screen s native resolution  simply want 4k screen door image crisp sharp  simply scale image like video cards ca nt handle max settings video game  1080p signal 4k screen look far  far better 1080p signal 1080p screen 
+wait see turn  oculus going way  yea still good  pull move like microsoft  hurt lot  see  minecraft development stopped oculus soon facebook bought  maybe dev thing 
+evrydayvr thorough test modified   realspace 3d audio demo  bonus minigame demonstrating power binaural audio 
+""
+could binaural audio maybe alleviate motion sickness  brain kind point focus  maybe increasing illusion re actually turning 
+  modified     added platforms  get   sound source well  changed music  evrydayvr s request  prevent youtube flagging also support indie musician    changed audio range music nt fade abruptly    spoiler    added minigame  press key get randomly teleported  view blocked  try locate audio purely hearing unblock view see right   threw bonus blackhole good measure
+word oculus plan integrate rs3d unity sdk 
+d love see  hear  marco polo game using realspace3d audio 
+great video review always  d love try modified version tuscany   perhaps time revisited old iphone audio invaders game vr  th original 2d version space invaders could hear see  quite following amongst visually impaired players time  http  gamesaladcombloggamesaladgamereviewaudioinvaders  nt advertising getting  currently broken  old needs serious make   ios8 update works  dk2 distracting   
+isnt longer called binaural audio simulated 
+nt know  guess d say much  audio nt completely realistic latency  s going sound bit weird  whereas happens visuals  whole world see jumping around way s supposed much stronger impact  adds sense presence convinces brain sees really  might help somewhat 
+download modified version 
+currently way swap track demo uses without much hassle  base version   d love able throw favorite songs sure something needs tweaked get full effect positional audio 
+nt know anything  d rather see wavetracing  beamtracing  raya calls  solution though unity 
+nt see would case  s binaural audio synthesis  binaural recording  binaural means s eyes  similar oculus binocular device  giving us binocular cues depth  distance size objects see  compared monocular ones screen 
+s available publicly  ll see get permission release song used  otherwise ll change 
+download source version realspace request license key 
+ah okay  justthought remember somone correcting called 
+great  would really nice could use song folder  audible zone audiosources also got bigger 
+fine  asked real space website project  although 3d sound likely expire users 180 days s free indie license key  may want put note readme  also note disable third party dts surround software nt seem work right first  unknowingly  edit  actual song sure 
+well re wrong   binaural means  two ears  
+m sure s possible currently  realspace 3d nt really like even swapped audio sources runtime  put songs mute one  scripting api kinda weird though pleasant work  ll poke around see somehow add 
+ m talking licensing terms realspace  m aware   song ve used 
+oh ok  
+rift games binaural audio like 
+put high quality headphones earphones go somewhere quiet dark  listen   interrogation chamber   http  myoutubecomwatch  vu163wc6mp2a  3d audio sounds real  nt tried rift yet would think binaural audio would take experience another level  able hear exactly things 3 dimensional space would make realistic  rift games maybe even movies use technology 
+problem nt got proper solution yet  audio binaural demos kind work s needed sense space moving sounds  nt need real  everyone hears differently reason different shaped shoulders  head importantly ears  movies record audio system shaped like head  makes hard implement head tracking audio recorded one angle  quality would example posted  would bigger problems something see sounds might seem come  people might good  bad  akg made nice recordings way back past putting small microphones ear channels 50 different test subjects recording certain noise echofree room coming different directions  find net try listening samples  see recording made human sound different  much   two three sample sets sounded ok  others either nt sound 3d weird way  software tried solve making generic hrtf  head related transfer function  tuned  audio distorted different ways depending sound originated  m sure anyone got even close right  tried  example rapture3d audio engine games use  vr becomes huge hit next step see indeed solving binaural audio problem s second thing vision makes vr immersive  remember someone oculus saying s much harder problem solve hmds fully believe 
+think point audio individual developer  s hoping  positional audio hrtf certainly minds developers  sounds wo nt change appreciably respect player perspective recorded via dummy head  video showing devs  atajrubah   http  steamcommunitycomsharedfilesfiledetails  id149896315  recording footstep sounds using binaural mics  example 
+think ll huge component  hope would something either natively baked game engines like unity  made available via plugin like vr sdir guys demoed  http  wwwyoutubecomwatch  v2dzsvjn8hnc previous thread rich discussion binaural audio additional links  http  wwwredditcomroculuscomments1uyy39binauralaudioshouldbestandardforoculusrift interestingly  nt heard updates vr sdir guys  s chance technology acquired  re lucky  oculusvr acquired plans making widely available free developers  s another demo amd s trueaudio tracked previous thread  http  wwwyoutubecomwatch  v6uutflmqq
+holly crap scary  man felt like getting talked ghost walking around 
+also researching created quick vr demo rift  http  bitly1dscqfk check let know think 
+yes
+recorded dummy head one orientation one position  games dynamic  head tracking dynamic  audio needs algorithmically modified realtime  dynamic equivalent binaural recording hrtf  s never good unfortunately killed games decade ago  vr hopefully bring back 
+hrtf definitely way go  surprised  aside ukentbye s  post   http  wwwredditcomroculuscomments1y135wwillriftgameshavebinauralaudiolikethiscfggnr5   people heard brainrelated transfer function  use head model instead based brain perceives sound  universal  besides provide cues direction     elevation  words soundscape bubble band around head  last bit super important  listen  demo   http  wwwgenaudioinccom  pair good quality inear earphones  iee s   good pair headphones okay  good news technology already starting enter consumer market  thanks genaudio  partners  partnership amd   trueaudio   http  youtubete1l9mazxy8  standard starting spread   quote   http  wwwmaximumpccomeverythingyouwantedknowaboutamd  e2  80  99snewtrueaudiotechnology2013  amd ’ carl wakeland     answer second part question  genaudio ’ brtf based way brain actually interprets audio  analyzed eegfmri meg data  traditional hrtfs assume  implied  head size shape dummy head used create psychoacoustic model  critical failing hrtf nobody ’ head size shape binaural dummy head  go deeper  right brain  learn brain receives processes 3d soundfield  work back create algorithms work level  genaudio team done  ’ met one person ’ blown away quality methods demonstrated  lichdom   http  youtube6uutflmqq     s bad news  currently following  amd graphics cards   http  enwikipediaorgwikiamdradeonrx200series  support standard   r7 260  r7 260x  r9 290  r9 290x hopefully list grow time  importantly ll spark competition  cold comfort nvidia  many amd  users  tech  works  need implementation 
+wow  seem knowledgable  understand would make sense use binaural audio recording 3d movies would nt allow head tracking audio recorded one angle  guess m hoping sort computer algorithm like hrtf simulate sounds coming different locations game developers integrate games  understand correctly problem lies fact everyone different shaped ears  heads  bodies reflect sound differently  example  noise sounds like 5 feet away back right could sound like 3 feet away directly back someone else even though would listening identical binaural recordings  future could player take mug shot  front side  type pictures show size shape relationship head shoulders mixed sort detailed scan ears used computer make custom hrtf player 
+think binaural audio integrated rift compatible game engine 
+binaural audio integrated rift compatible game engine  brainer  discussion 
+protip  use link shortener  reddit remove posts mod verifies xd
+thanks  new  demo indeed sounds quite good  need dig  demo could nt hear sounds coming properly front ca nt know ve  sounds behind hand worked perfectly  supposed come   edit  sidenote  hope vr would make people realize good quality positional audio pretty much relevant good graphics  least could sacrifice graphics quality lot reserve gpu processing power audio calculations  kind wave  tracing  would complement hrtf brtf nicely 
+demos using trueaudio far terrible  even close openal hrtf implementation 10 years old games 
+yes making model head tracing sound waves propagate could get results  actually read reply comment umageoftheyear perhaps interesting news hrtfs  try difference shape makes friend  sitting chair eyes closed  make sounds  hit two small metals objects together example  guess originate  probably guessed pretty much correct  put towel shoulders anything similar repeat  ll see accuracy goes even 
+ audio recorded one angle  things like   http  3diosoundcomindexphp  mainpageproductinfo  cpath33  productsid46  may change though 
+excellent point indeed
+rift come gforce stimulator  discussion 
+tell creative suing everyone microsoft killing good audio tech pc 
+low level implementation definitely preferable  actually seen indication game engines prioritizing  m worried might get enough support second wave vr games 
+re welcome  glad re interested   think demo specifically designed highlight sound moving head 3d audio engines deadzone  time listen  presentation   http  youtubexo1jjjghneg  t27m20s   starts overview raja koduri vp amd  genaudio s founder  jerry mahabub   http  wwwgenaudioinccomdirectorsphp   s 40 minutes long ll walk away clear understanding offer  later presentation chris roberts confirms star citizen support trueaudio      reason alone buying trueaudio capable card  audio must 
+demos nt best sort thing  use atm s ve got go   really need hear actual implementation game new  thief  title  proof pudding 
+going say  okay 
+smell meme coming 
+take binaural audio way bigger positive effect vr gaming typical monitor gaming  also  information needed make binaural audio level game engine  level game developer  first gen rift games probably wont  see definitely drawing board  game engine integrated binaural audio would huge selling point definitely something future competing vr engines would looking offer 
+oculus subredit viable platform meme creation  discussion 
+seen     coming   facepalm  
+millennium falcon demo  dk2 binaural audio test
+""
+yaiii  free stuff discover dk2  time s millenium falcon  m testing dk2 implementation first binaural audio setup  tell works hear difference  s good twobigears  demoscene   http  twobigearscom  demo  think scratched surface  hope fun  least minutes   thanks  sean kennedy   http  wwwscifi3dcomauthordetailsasp  key41   iven connery   http  wwwscifi3dcomauthordetailsasp  key29  free falcon xwing models
+quick update   climp guntower   f   climp   audio rebuild  second xwing joins hyperjump  laser shooting solos s seat   f   sit   space   fire   thanks nodes models
+thank releasing  
+ removed 
+pretty sweet  nice see well done familiar place  d could tell direction glowing white orb sound pretty well  s sound fell range hearing really quickly tough get good read  tried cranking volume  sounded like completely stopped making noise 
+begging mac build sdk available mac   
+look s nice  kind experiences precisely reason m thrilled vr  good job 
+ deleted 
+wont let go page  keeps saying much traffic  
+begging mac build sdk available mac   
+s ship designed smuggling  duh 
+s exe containing another exe highly compressed via 7zip  causes false positives time 
+nt problem
+oh  okay   http  imgurcomadn1ta  0
+reset game get binaural audio really dedicated rift support
+""
+s excerpt email got team   heart theory immersion  times rising vr highly exciting us  even facebook acquisition    way create better immersion  means putting lot effort oculus rift version game  including binaural audioscape  new oculus rift dk2 kits ordered immediately came available  hopefully getting july begin shipping 
+looks aaa small studio  nice know dedicated rift experience  makes difference world 
+sweet 
+ deleted 
+never heard game  damn looks good 
+nearly every game binaural audio configure audio options headphones  s convincing since algorithms imperfect  nt see ll better  since nothing recording turn head direction  come solely audio processing algorithms use nt see making breakthrough  basically expect  binaural audioscape  used marketing term something nearly every nonvr game already 
+nt heard  got lot attention months ago first announced  check gameplaytrailers  game looks seems amazing 
+used case rarely see headphones option modern games shame 
+games rarely actual bunaural audio actually  usually different panning laws simulated surround  actual binaural audio different experience 
+know well  ve heard  barber shop sample   https  wwwyoutubecomwatch  viudtlvagjja   however sample actually recorded physical model head locked orientation  method ca nt used video games since recording come direction  especially vr game never lock orientation  ca nt anything recording make  binaural   come purely processing algorithms  seen give support claims ll able better mediocre attempts  binaural audioscape  already made  one  creepy  promising attempt   http  techcrunchcom20140413oculusmusic  made semiorientationfree binaural audio recording could promising  however  accounts orientation position still need processing 
+yeah  may make impulsebased convolver simulates shape ear  make impulse response ears apply anything  directionality problem  might able make whole bunch impulse responses blend change directions sounds  though 
+wolf abroad  virtual travel show oculus rift  3d 360 hd video 3d omnibinaural audio  kickstarter campaign
+""
+huh  almost every comment submission downvoted 1 weird 
+hey roculus  may remember us old campaign posted subreddit  getting great advice revamped rig new campaign   wolf abroad virtuality reality travel experience made possible 3d 360° hd video 3d omnibinaural audio  please back us  repost  retweet  forward  share  poke  bop  twist  send smoke signals  anything help us spread word   knowledgable subredit  critiques capture masses  hearts  minds  soulstuffs vr goodness  thanks yall 
+great idea travel show  people nt oculus rift  work 2d  also  besides national parks  locations thinking 
+pilot episode could watch  backed several videomovie projects  generally nt kickstart projects unless something show  love idea  though  even  david attenborough   http  wwwwiredcouknewsarchive20140411oculusriftattenborough  loves idea  even though dome projected vr movies problematic  software getting better every month  biggest technical challenge stitching together frames cameras seamlessly  discontinuity breaks immersion  frame rate  ideally sampled 75hz  also issue  largely solved software  good luck project 
+wolf abroad featured guardian http  wwwtheguardiancomvitalsigns2014oct06environmenttraveltourismvirtual3doculusriftvoluntourismvolunteers
+3dh3pro12 fucked camera rig  advertised  360heros gopro array 3d 360° hd video way humans see world  around depth   nowhere even close humans see  every pair adjacent camera turned 90 humans always eyes side side  would consider anything company selling spherical s3d camera rig  recording binaural audio 4 directions make omni directional audio  http  elevrcomaudioforvrfilm shot  stitched  watched hmd 360° s3d video  nt know involved  using equipment looks pretty  go shoot share examples 
+want people pay go traveling  pleasure watching show total unknown  nt even give footage hosting skills  m starting really hate kickstarter opportunistic vr projects  tell  exactly going address positional tracking videos  claim hd video turn respond movements course lie 
+yeah  s 
+2d video version traditional 3d video versions available  3d binaural audio effect used formats using headphones  re hoping tinker positional tracking omniniaural audio crossfading multiple binaural feeds 360 panorama 3d sound  locations  re based southern california initially document places nearby  santa monica  san gabriel mountains  malibu   mountains  beach  learn system  perfect post process  pilot  hopefully spreading 
+s pilot currently  could film 2d version  nt want confuse technology page campaign video quality  thank advice luck  learning everyday  nt know david attenborough throughly excited  re hoping capture footage said  watch software get better every month  hopefully consumer models release 
+kid nt even basic clue works  nt rift even understand positional tracking different rotational tracking  wants bunch suckers pay gear travel  s offensive would try first kickstarter  get many comments relaunch much higher goal 
+read article  3dio omnibinaural mic used crossfade pairs ears  s like 360 panoramic binaural audi re absolutely right  would able hear four corners  take extensive post process video stitch  work 3d  color correct  edit clip  need equipment campaign shoot examples  hopefully soon 
+ want document  capture stunning images early attempts vr travel  hope cut high environmental costs world travel  help people ca nt travel physical disability  commonly  fiscal reasons  highlight areas average consumers spend travel dollar wisely  video recorded 360heroes rig outlined campaign  video meant played full dome sphere projection vr player like software  perhaps something development   video solid point  nt want confused video even close tech spec necessary project  video update coming 
+understand article  read  would better throwing away ears pointing microphones every 45 degrees 
+buy young kid bunch gear  pay holidays try make star  dont believe altruistic claims second  comments apparently nt even rift nt understand actual medium show seen  protip  saying     bunch times sole person project makes seem dishonest  response positional tracking obvious false claim page  tl  dr kid fails kickstarter  relaunches much higher goal  still fails basic grasp technology needed pull still nt show examples hosting abilities  fails second time 
+understand concern  360x180 video projected sphere mode  came 60fps 1080p array 12 gopro camera video stitched stretched projection slight distortion  still nt oculus rift  dk1 dk2  viewed multiple demos  projection followed turns head movement  positional tracking something different   m learn  know   learn  ispy small crew helping though  account 
+nt understand positional tracking huge problem creates video honestly cancel campaign  stands claim covered s obvious nt  worse yet nt even understand  rotational tracking equal positional tracking  see think opportunistic 
+nt think ever claims offer positional tracking  positional tracking really necessary 3d video  gear vr  travel show would perfect  nt even offer positional tracking  nt know re pissed guy  sure  seems quite know s getting  vr travel show legitimately good idea reasons stated  many people  including  would actually like vr travel show exist  would also help bring vr mainstream use  much seems bother somebody gets get paid good time travel  travel show actually require somebody good time travel  perhaps would constructive recommend superior way capture video vr 
+m pissed  hate scammers  especially hate crowd funding scammers  seeing half baked campaign kids lack knowledge makes want call others nt waste money  clue tech  claims campaign video respond movements nt even understand positional tracking different rotational  wants host nt even show second comes across video  shitty  scamming  painfully stupid ignorant  campaign deserves shouted  way deliver claims people know better play along  let people know tackle travel vr  kid looking get rich vr things even established 
+aj campbell 360 3d audio free space omnibinaural microphone  vrsfx unity plugin
+""
+hmm  hrtf battle ensues  software simulated sound never quite approaches fidelity true recording  freedom place environment sound create space unparalleled comes oculus  default solution  would ideal concerts  live events like
+experienced exact device output  courtesy aj   say absolutely blew away  brain nt sure think first smile 
+0800 192 192
+think human ears thing stupid  even ear lobes wtf  re going put organic design something better ears animal known superior hearing like bat something 
+stuff like realtime rotation — binaural stereo recording  cross mixing layered recordings  seems work well environmental sounds  however things like vocals  spot effects benefit hrtf positioning  works  approach create mix 
+s designed capture l r audio — filtering pinnae  outer ears  frequencies different locations  one primary ways humans detect whether sounds coming front rear given equidistant sound source  recording bats  yes use bat ears 
+ announce  3dception  binaural audio playable demos android  osx windows
+hey guys  ’ released playable demos  3dception   http  twobigearscom  demos   realtime binaural engine  lot requested  available builds osx  windows android  ios soon  ’ constantly improving 3dception since first announcement  thanks valuable feedback  major announcements coming weeks    sneak peek rift mode demo looks like   https  vimeocom103428976  – make sure headphones 
+unreal engine 4 support please  
+might try  got plugin maybe month ago tried using unity s rift prefabs d get sound   followed instructions 
+get absolutely effect 3dception  fact  barely even get left  right  guess need uncommon hrtf  demos nt allow sort calibration  ve similar experiences demos  one size fits clearly wo nt work spatial audio  real time engine demo ever really worked video  https  wwwyoutubecomwatch  vlsxh5etsxds ca nt get touch guy idea s different  get really crisp 
+sounds pretty good video  try get back rift 
+site dead  anyone mirror demos 
+ coming soon  
+1 ue4 support  d definitely add support free demo  vr audiobook player   https  dungeonsurvivalwordpresscomstorytellerfiresidetales  
+good 
+bbc s r  team dabbling binaural audio
+""
+link robdabank 3d headphone special lucy rose mentioned article anyone wants listen  http  wwwmixcloudcomcorenewsuploadsrobdabank201401043dheadphonespecialwithlucyrose
+thought interesting read related vr  oculus course
+spoke someone team months ago said made demo oculus  360 video  binaural sound  radar  nt know s top priority  article nt overly optimistic binaural create huge advancements  kind agree  think could great record general ambience binaural give sense depth  maybe audio queues come behind  nt think s make break thing audio immersion  m mostly focused video rather gaming  argument kind similar whether video needs stereoscopic 
+sadly bbc research team 1970 s 1980 s worked aspect much success  think one demos still available yt  sad fact however recent changes bbc investment saw team knowledge disbanded  watching bbc wake lost opportunity sickening 
+audio post production gon na take different method previously used compile mix audio binaural recording becomes popular   fuckin finally  
+actual binaural audio starts 600  case anyone nt want listen entire harlem shake 
+given stage ca nt rely binaural audio engines included lot titles  headphones compare surround speakers properly set 
+edit  clarity  mean used conjunction vr 
+one major difference  headphones follow head turn  surround speakers fixed 
+bad 3d audio sub surround system main attraction  feeling deep bass add alot
+two ears  decent headphones different surround sound setups except better turn head  prefer open cans large soundstage produce 
+headphones way go vr  directionality sources consistent head s turned  also helps immersion  surrounding  hearing  especially closed isolating headphones  get pair beyerdynamic dt770 pro headphones lose  d recommend seatmounted subvibration unit  basically vibrates seat according low frequencies  alternatively sub next 
+s exactly point  without binaural audio engines headphones going rip away immersion surround systems wo nt  edit  clarity mean   binaural audio engines head tracking implementations
+heard new elite game actual hmdspeaker mode  
+think  bass shaker   http  wwwthebuttkickercomgamer2  good headphones going best audio option vr games quite time  openal good 3d implemented afaik high hopes major vr engines something working time cv1 product 
+yeah  s thinking  ve tuned 51 set pretty well  well  anyway  sounds mostly seamless completely  games perform really well  m hoping m inside vr headset might assist distract making surround feel seamless 
+ deleted 
+would nt opposite  turn head 180 degrees  simplicity s sake   sound   right projected right speaker    would left side head  sort applicationaddon accounted  sure surround would probably pretty awesome  nt heard anything 
+seems might thinking wrong way  second thought  engine aware surround sound applies player position  re turning head surround sound speaker environment  sound appear warp headphones wo nt  right  early crap right  lol 
+initially thought much   turning head audio following unless audio engines implemented head tracking mind  sounds like deal  immersion  breaker    edit  guess lot engines already follow player position though  nt  might bad 
+moment real need sound card cleaner sound output would spend  80 sound card best put money towards better headset  back days eax 50 around good 3d sound games lucky souund like eax 30
+yep  commented realised   modern engines apply directional sound player screw surround sound applied head tracking  bummer  headphones   p
+oculus rift  vrsfx binaural audio  pitch perfect presence
+""
+interesting  thanks sharing content keep us interested till dk2s arrive  hope see alreadyplanned games adopt similar technology release  elite  dangerous  sound phenomenal already  binaural would take another level 
+re selling prerecorded binaural — seems bit pointless  since wo nt able move audio sources  match spatial cues reverb  early reflections game geometry  binaural also reproducing itd  interaural difference  person s ear  head  torso shape profound effect spatialisation   freespace omni   http  3diosoundcomindexphp  mainpageproductinfo  productsid46  may good form factor portable 360° gopro mount otherwise s really poor choice compared something like  neuman ku 100   https  wwwneumanncom  langen  idcurrentmicrophones  cidku100description  accurate model terms head shape  reflections upper torso  prototyped bunch stuff 2010 built binaural head  guy researched masters binaural audio playback team  advice developers would hire neumann binaural head  buy something like  roland cs10em   http  wwwrolandcomproductsencs10em  record stuff  regardless  re going old problems generalised hrtf encountered last 15 years  sounds poor verticality  sometimes appearing come inside head s mismatch  solution  allow users calibrate binaural fit series existing profiles  personal audio   http  wwwpersonalaudiocomauproductsdemohtml  tried 
+seem practical enough  might well use dolby headphone since use actual binaural htrf well 
+ deleted 
+maybe work pure software solution  nothing superior  binaurally recorded  sound  provided good algorithm cross fading  may realistic hrtf method  one major drawback lack vertical information  looks like pure software solution needed movement along zaxis 
+s audio  dude  unless synaethesia  ai nt gon na see shit 
+simple 360 sound demo available download free http  totalcinema360comoculushtml  also see http  totalcinema360combluesdemohtml  although updating web player today promises reliability today 
+haha  clever
+preview oculus  newly licensed audio tech reveals stunning 3d sound  download 
+""
+long creative sues business  still mad aureal   a3d   http  enwikipediaorgwikia3d  hrtfs back 90s 
+holly shit knew good 3d sound would boost pressence  nt realize difference would huge  check tuscany demo s damn worth
+wonder d allow likes unity ue4 integrate realspace3d tech engines 
+anyone demo able upload somewhere  site link download d really like give shot 
+think saw stand guys sold tech oculus e3  little gray box moved around made sound like sound coming gray box  actually took headphones times make sure actually emulating instead actually coming gray box  audio engineer  really impressed execution  really convincing  oculus going use  s going great  nt sound like someone s coming right headphones instance  sounds like right coming literally  like outside headphones  rather sounds inside headphones  makes sense 
+m glad palmer audiophile much videophile  good sound make huge difference almost forms entertainment  especially gamingmovies 
+ removed 
+website  anyone mirror 
+hmm  nt really impress  fountain sounds really strangemetallic nt really localisable  stand directly front  hear backside etc  walk 2 away  s completely    silent  wtf  butterfly even worse  seems almost random  s 3 away left side  hear clearly  thing really works expected soundbox house convincing  spyro
+ok  difference http  wwwtwobigearscom 
+computer engineer  author putting hard problems  quotes seems patronizing  problems literally difficult solve 
+cool stuff  raises lot questions  much work involved including game many different rooms spaces  much based realtime algorithms  possible apply people s microphone output sounds like moving around environment   would possibly even cooler  much processing power used 
+understanding right real audio improvement audio software audio hardware 
+tuscany demo nt downloading correctly  keeps getting corrupt  anyone supply mirror  m really interested technology  
+go tuscany demo felt come say frickin brilliant  honestly took headphones times make sure sound nt blasting speakers 1am  really truly felt like standing 3 feet away speaker  ca nt help feeling good pair cans helped significantly presence bass lack outside noise definitely contributed experience may remove oculus phones use cv1 comes depending well deal two points 
+something really cool hrtfs  group friends talk time  focus individual voice listen himher  record conversation using one mic  wo nt able  ll sound like gibberish  record individual speeches  place virtual world  apply hrtf  ll able focus individuals  edit  ca nt find exact place ve read     http  enwikipediaorgwikisoundlocalization  soundlocalizationbythehumanauditorysystem  s start  edit 2  think also helps facebook s push social use rift  ll able participate group chats ease 
+okay  m interested rs3da  thanks writeup paul 
+wow  speaker villa  amazing  others said fall insanely exaggerated seriously  really fooling brain 
+case site nt loading anyone else  link demos  http  realspace3daudiocomdemos
+ear buds seem work much better headphones  tried bose headphones first completely underwhelmed  put old ipod ear buds holy cow  way better 
+another right piece puzzle presence  huge speaker tuscany demo amazing  like close eyes spin move randomly using xbox controller  turn head towards source sound open eyes  speaker always right place   
+awesome  make sure turn third party surround enhancements trying tuscany demo  speaker inside house crazy 
+ok  sick  tuscany stairs thought turning volume wake anybody house  since trying demo middle night  realized using headphones  damn awesomely crazy 
+difference something like openal 
+wonder means us prefer sitting strategically middle 51 surround system wearing headphones 
+ webpage available   
+wonder interact dedicated 3d audio processing high end amd cards  stuff demoed last fall  possibility amd leg result 
+ deleted 
+think s quite good  using koss headphones  turn back sound source  sounds wrong volume way low  also nt like  trigger  sound walking close  put sound sources apart make audible  almost  anywhere  make sure check flying seagulls  well  wished could hear waves bit better 
+kind underwhelmed unimpressed  maybe using beats headphones  try get another pair try perhaps 
+good question  relevant aureal patents expired 2012 
+nt stand chance might teh facebook lawyers 
+really revelation  dial back superlatives article impressed 
+think s something people nt appreciate importantvital experience  try 
+ adding couple sound emitting items tuscany demo feels like completely new experience  got presence right away standing front fountain music box upstairs  edit  seriously grab pair headphones  turn volume go walk around demo  finally demo shows important 3d sound presence 
+ re sadpandajpg
+definitely better  expecting realism windows  walk around perimeter house  music nt play windows fades away way fast  least rig went today 
+poor holly  ever    
+almost got moment presence sitting next fireplace listening music  great 
+demo video   realspace audio available unity plugin http  realspace3daudiocomdemos
+want know well  d really love add type audio vr audiobook player  tried make atmospheric existing  positional  sound possible  s obviously hrtf based sound engine 
+accommodating engines oculus  especially ue4   beneficial cultivation vr medium  say oculus definitely open 
+well ue4 opensource s like really matters
+got lucky made download  reuploaded mediafire  s link  https  wwwmediafirecom  cae8ucbbxqk971c must admit  works right  audio engine amazing  unfortunately serious inconsistencies  missing features  instance  sound seems jump  cutting way soon  speaker main building best example  walk door  s blaring loud  move feet away entrance  suddenly s gone  s sound works  sound playing re moving around room  makes huge difference immersion  definitely favorite version tuscany demo date 
+3 hours left download   3
+always put sound last  never bought sound card  never really saw reason  games even take advantage good sound cardsspeakersetc  
+think sharp dropoff intentional demo avoid sounds interfering 
+reddit hug 
+ s   https  webcachegoogleusercontentcomsearch  qcache  vw1qibfhjhij  wwwroadtovrcomoculusriftdk2realsense3daudiopreviewdownload  cd1  hlen  ctclnk  glus  cached version 
+d agree  fountain ok  though impressive front back  fire pretty good turn 90°  ear nt facing still hear clearly way sounds fake  speaker definitely best actually sounds convincing coming front  similar tech fails  re instantly let butterfly  wow  hell going  approach  sounds like s coming overhead behind  sounds cutting suddenly  reckon s counter bound affected game environment  sounds inside house muffled re outside vice versa   doubt constraint simple nature demo  way fire s dynamic light visible outside house  ve something ground breaking audiowise long time  s necessity immersion  ve high hopes concentrated r  effort oculus produce something great 
+think mostly execution  fair number hrtf  derivative  providers claim special thing  s rapture3d  cmss  razer surround  astoundsound many  aim provide one thing  accurate positioning sound  visisounds usp personalised hrtf  claim ale derive photographs  maybe able send photos ears get back hrtf  imo real breakthrough vr sound comes proper waveray    traced sound occlusion  reflections  diffusion  etc  hrtfs surely add  wo nt end solution 
+  would possibly even cooler  tried demo conference like  multiplayer voice 3d positional sound  nt hrtf amazingness  still  extremely impressive   using quake 3 think 
+yes  think  good pair headphones important  real wizardry filtering audio sources real time match brain s expectations  example  sound directly behind somewhat muffled   low pass filtered  want real term  shape ears  also  sounds hit ear slightly different time  brain picks unbelievably small differences uses triangulate position sound  kind positionalbinaural audio works headphones  simulating cues  many others  s complex task  essentially create audio equivalent 3d image 
+ company   also   announced ’ licensing 3d spatial audio processing technology called realspace 3d audio visisonics  hope clears  
+according oculus 
+got issue
+ honestly took headphones times make sure sound nt blasting speakers  exact thing  went around entire house first nt impressed  soon stepped building  holy shit  mind blown  walking stairs  getting close   eerily convincing 
+headphones great speaker still extremely convincing 
+different api  idk man  one seem hrtf sound default  standard openal nt even  d need custom openal build third party developers  
+m sure technical side  however effort keep home title captain obvious would like point one key difference  one standard used oculus rift 
+means re probably want wear headphones  software accounting fact wearing headphones listening speakers effect simply wo nt sound correct 
+3d sound like works headphones  simple answer experience 
+51 sound systems headphones always like 3d tvs vr headsets  imitation real thing  never truly beat real deal matter much money spend 
+ s best audio set oculus  3d  directionalbinaural sound recording technology  good set headphones  contest  surround sound simply way emulating binaural audio actually achieves  s good experience  actual ampheadphone suggestions  shall leave audiophiles among us   p
+hate beats enough  get higher quality sound 14 price sennheiser  dr dre endorsing anything nt  engineering quality equivalent price  rant
+yeah  try real headphones 
+think lot people unknowingly third party surround  plugins enabled  dts surround setting enabled accident first nt work well  disable third party software use two speaker mode running  s pretty awesome get going  
+recommend sennheiser earbuds 
+accurate frequency response filtering critical components  oculus making headphones built  beats bose  premium   gamer  headphones fiddle sound add effects change eq poorly recorded sound feels impressive  prevents hrtf working  audio coming application must untouched 
+prepare beat  friend  oops  late 
+finally  creative basically roadblocked audiorelated advance decade 
+thank god
+true  aureal got killed lack money lawyer fees rather actually losing patent infringement case 
+music playing  please let https  wwwyoutubecomwatch  veajsejungs4
+ d liked heard balcony get in room  kind effect still really impressed 
+nt  adds lot done well  people decent audio equipment developers would probably put effort  rift may shunt audio games needs 
+standalone soundcard used requirement onboard cards caught massively days terms quality s needed anymore cool features used  a3d  eax  etc  nt used anymore s need getting one either  short  long motherboard made last years re probably fine  everything takes advantage good speakersheadphones though  otherwise everything sounds naff 
+games like fps good headpones major advantage  prepared accused using wall hack ll able hear enemies coming around wall even know re 
+sense would make  sound way s supposed sound  got wrong  hexorg s comment suggests 
+defeats point  part magic 3d sound easily distinguish particular sounds background noise  like hear conversation busy restaurantpub   nt tried particular demos  d like contrast 71 sound dolby headphone  meant simulate effect  
+doubt  totally breaks immersion stepping open doorway onto balcony music cut immediately 
+nope  dns nt resolve 
+raytrace  wave  technology proper wave tracing 
+heck re looking non hrtf even arma3 positional 3d audio voices  using tfar acre better comms  default direct   even good  hrtf another ballgame 
+thank writing interesting response  wish  could give gold  xp
+open source openal implementation hrtf built  turned default  even force game 
+thinking case would mean oculus supported programs would pretty much garentee 3d sound support instead relying individual devs would cool 
+headphones immersion   like  presence  breaking deal one simple reason  add considerable discomfort long gaming sessions  regardless padding quality 
+thanks  wonder  though  signal processing techniques used also applied surround system 
+m sure comment system  advocating 
+agree  given headphones gift  horrible  actually use work hopes someone steal  seems everyone around knows horrible 
+nt sound creative 
+smothrering baby technology cradle  sinful 
+god nt much say patent law 
+bond  victory  https  wwwyoutubecomwatch  vj3nbuwopu8a
+think played italy dust dust2 back 1516 days  ever develop case dementia  song probably large component 
+haha  also first thing thought  seriously  d quite fitting 
+think re thinking something like lowpass filter   audio occlusion needs calculated m sure working yet guys  audio occlusion music zenith 01   swear  m still working   create checkpoints change lowpass filter s cutoffs upon touched player  s terribly inefficient moment  tried similar plugin really hard get going  need link collision model script  try shape model around everything might bignoteworthy enough occlude sound bounce sound  far know  s plugin yet automatically calculates  since ca nt make assumptions objects architectural  hopefully future ll free plugin like s used  flag floorswallsceilings typical unity tag  done automatically  s really weird hear music fullvolume side wall  s tediousin infancy  s optimal implement singleroom games  onto sound emitters hear distances permit player behind something large  like wall 
+naff lol
+looked ip using google link demo  http  realspace3daudiocomdemos
+ deleted 
+people working  use precomputed functions convincing results  examples   1   http  wwwyoutubecomwatch  vmqt1jtdbnk4    2   https  wwwyoutubecomwatch  vfdl39ji0yq    3   http  wwwyoutubecomwatch  vmqt1jtdbnk4  edit  oops 
+said 
+would certainly problem  think ll see cv1 built design comes around  crescent bay nt exactly made kind extended comfort headphones put  m sure cv1 much refined engineered given bought 360 controller s design team  many seem consider damn comfortable gamepad hope level comfort extend hmd design 
+tried good headphones  pair large openair cans hardly noticeable  let alone considerably discomforting  important thing extended use headphones nt actually touch ears 
+would require knowing position speakers acoustic properties room  things like interactions sound waves different speakers  sounds reflecting walls would need incorporated simulation even position relation speakers  short  difficult even impossible problem wo nt get solved since headphones technically superior solution  personally d recommend iems  earbuds  headphones cause discomfort 
+short   true 3d sound happens brain processes slight differences sounds right ear hearing something right slightly left  bunch small things surround system could never accurately provide  want easiest example look binaural audio barbershop demo youtube compare speakers headphones  demo recorded  effect 3d audio simulating 
+51 surround sound 3d tv limited technologically ca nt advance  ca nt generate type experiences headphone 3d sound oculus rift potentially offer 
+true nt ebay buy something actually enjoy 
+creative greedy
+lawyers sure 
+yeah
+last time got cs ended going 10  degree started living bedsheet arm head holes cut  god effin help bring vr version 
+thanks  
+could would nt ask mirror  would  
+http   missing two links  hence formatting  cheers though  looks interesting 
+nt know thing headphones nt touch ears  makemodel recommendations 
+hmm  ve listened barber thing headphones  nt wowed  iirc  downloaded high bitrate version  following someone else s recommendation 
+true  wrote damage control
+problem 
+audio technica athad700 probably comfortable headphone ve ever used  re mainly looking comfort  need something goes around ears instead top  openbacked nt create pressure  audio technicas also springy brace nt get pressure headband  re stupidly comfortable 2 minutes  forget re even 
+nt know tell  even used cheap earbuds  close eyes demo brain completely tracks sound 3d around  headphones fake surround sound make sure settings thing could suggest 
+worth noting make sure  using usb headphones  headphones set regular 2 speaker mode using  virtual  71 setup 
+thanks  reading  accounts  re great set phones  might invest 
+ obligatory link headphones guide    http  wwwheadfiorgt534479madlustenvysheadphonegamingguideupdate792014ultrasonehfi15gadded 
+handy  thanks 
+open field echo sounder  audio game app outdoor play 
+""
+made game app  find virtual gps targets using echolocation  play outdoors field either size tennis court  size football pitch  linkme  open field echo sounder
+cool idea  
+solucioné el audio  la concha suya  creo 
+""
+btw si en algun momento esto se siente spammy quieren que la corte con los let s play  chiflen  quiero un ban por pesado 
+ahora si esta bien o pinta copado el juego  nunca lo agarre porque salio de early access  que tanto puede entretener para agarrarlo asi casualmente  es mejor con un par de amigos 
+btw  que estas usando para editar todo  quiero empezar hacer un par de videos onda esto estoy buscando recomendaciones
+muy bueno  mire los 3 que posteaste  son un cago de risa  geniales 
+hazte una serie de tutoriales  p sigue asi
+spammy   steamy  mmmmmmm
+ta bien  molesta  asi por ahi se prenden mas postear videos 
+lleva mucho tiempo en early access  personalmente lo juego desde 008 llevo cientos de horas jugadas  jamás aburrió  creo que si tuviese que elegir  da best gaem evah  sería este  es single player  hay mods para multiplayer qeu funcionan mas menos tirando menos   por lo que agarrarlo con amigos necesariamente ayuda  en cuanto  casual   te vas divertir seguro  pero si queres lograr algo  llegar la luna volver  vas necesitar mirarte un par de tutorials  casi seguro 
+grabo con fraps edito con sony vega grabo voz con sony vega despues le saco el ruido  mic de mierda  con audacity comprimo el render con handbrake  los lleva de 15gb 200mb  suena más paja de lo que es  lo único dificil de instalar es el sony vega  uso el sony vega 11 porque el 13 tenes que dar mil pasos para instalarlo trucho  desenchufar internet  bloquear ips puertos con firewall  eeetc   el 11 es usar un keygen listo 
+grasia el de ayer  widespread failure  todavía tiene cabeceando el escritorio 
+de hecho  sí  tengo pensado hacer una serie de tutoriales en castellano  ya que lo poco que hay está en ingles yo desactualizado 
+wat
+jaja  hasta yo frustre cuando pudiste salir de eve     dieron ganas de probar de vuelta el ksp  pero acuerdo que la primera vez que lo probé resulto tedioso jugar solo  si algún día sale algo como eve online meets ksp  voy limarla  p
+know  sexy voice  illshowmyselfout
+eso que usé la voz  de canto   p  pero  eh  gracias 
